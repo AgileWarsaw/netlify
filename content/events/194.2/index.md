@@ -4,7 +4,7 @@ date: "2020-01-13T19:00:00+01:00"
 title: "Sociocracy 3.0 by Example"
 speakers: "Piotr Radaj, Paweł Polewicz"
 lang: "en"
-sponsors: "pkobp"
+sponsors: ["pkobp", "qagile"]
 videoURL: 
 draft: false
 ---

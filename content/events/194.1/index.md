@@ -4,7 +4,7 @@ date: "2020-01-13T18:00:00+01:00"
 title: "Socjokracja 3.0"
 speakers: "Ewa Koprowska, Piotr Radaj"
 lang: "pl"
-sponsors: "pkobp"
+sponsors: ["pkobp", "qagile"]
 videoURL: 
 draft: false
 ---
