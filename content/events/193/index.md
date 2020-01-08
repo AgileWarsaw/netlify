@@ -1,6 +1,6 @@
 ---
 number: "193"
-date: "2019-12-16"
+date: "2019-12-16T19:00:00+01:00"
 title: "[workshop] Bring Your Own Problem — Solution Room"
 speakers: "Mateusz Srebrny"
 lang: "en"
