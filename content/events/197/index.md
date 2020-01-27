@@ -18,6 +18,7 @@ Paulo also promised 20 books to be raffled for the meet-up participants :)
 <!-- **Lean inception** is the effective combination of Design Thinking and Lean StartUp to decide the Minimum Viable Product (MVP). It is a collaborative workshop that will help a group of people — typically an agile team, a squad, or a product team -- understand, align and plan the building of the lean product. -->
 
 
+
 ## The talk:
 The world is changing faster than ever before. With the advent of the internet, mobility, social networking and cloud computing, everything has accelerated. Just a decade ago, the rise of innovative products was much slower. The world was more predictable. Now it’s different. The acceleration of innovation and the velocity of disruption are hard to comprehend or anticipate. The changes hit your business, at the core. Your have to do something about it, fast!
 
