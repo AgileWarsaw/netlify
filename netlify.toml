@@ -2,3 +2,7 @@
   publish = "docs"
   command = "hugo"
 
+[context.deploy-preview]
+  publish = "pub" 
+  command = "echo 'test'" 
+
