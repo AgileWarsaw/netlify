@@ -1,7 +1,7 @@
 ---
 number: "197"
 date: "2020-02-26T19:00:00+01:00"
-title: "Lean Inception: how to align people and build the right product"
+title: "Lean Inception: How to Align People and Build the Right Product"
 speakers: "Paulo Caroli"
 lang: "en"
 sponsors: ["pkobp"]
