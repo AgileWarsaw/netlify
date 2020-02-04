@@ -24,7 +24,7 @@ params:
   Sections:
     - about
     - location
-      #- speakers
+    - speakers
     - schedule
     - sponsors
     - partners
@@ -188,16 +188,16 @@ params:
     - name: "Lunch"
       remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
 
-      #    - authors:
-      #        - name: "Agnieszka Balcer-Thinlay"
-      #          photo: "img/AgaBT.jpg"
-      #          bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
-      #          link:
-      #            href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
-      #            text: LinkedIn
-      #      presentation:
-      #        title: "Filtering out bad ideas: how we decide what not to do @Codility"
-      #        description: "A lot is being written on how to select features for further development: how to sieve through the ideas, agree on the most promising ones and deliver them ASAP. Not only because you get to select the optimal projects - but also (what is sometimes forgotten) avoid doing things that might drive your developer team far away from where they should be spending their time and effort. Saving resources (time of developers) for the right ideas is just as important as selecting the right ideas in the first place. I would like to show an example of 2 features we have terminated at Codility just before the development phase thanks to research and internal cooperation, saving the company months of work on a feature that might not be the most valuable one at the time. Research methods used: qualitative concept tests (also known in Codility as Pizza Disaster Tests) and quantitative analysis of internal data. Important ingredients of the success: strong Research – Product Manager cooperation, feedback ownership and clear assumptions behind the development (we know what problem it was going to solve)."
+    - authors:
+        - name: "Zbigniew Sobiecki"
+          #photo: "img/AgaBT.jpg"
+          #bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
+          link:
+              #href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
+              #text: LinkedIn
+      presentation:
+        title: "Building New Products and Businesses vs. Cranking out Code"
+        description: "Is it possible to successfully design and build new digital products and services from scratch with an external partner? If so, how does the process, the team, and the business arrangement differs from classic time & materials software house setup? Let's have a frank discussion about the common issues organizations face when trying to outsource product design and how to deal with them. Let's also get specific about focusing on outcomes instead of shipping new features. We will also touch on human and cultural aspects of the two approaches."
 
       #    - authors:
       #        - name: "Paweł Polewicz"
