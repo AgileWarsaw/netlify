@@ -26,8 +26,8 @@ params:
     - location
     - speakers
     - schedule
-    - sponsors
     - partners
+    - sponsors
       #- media
     - orgs
     - previous
@@ -84,9 +84,9 @@ params:
       logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
-      #- name: "Deloitte"
-      #  logo: "img/logo-deloitte-white.png"
-      #  url: "https://www2.deloitte.com/pl/pl.html"
+    - name: "PKO BP"
+      logo: "img/logo_PKOBP.jpg"
+      url: "https://www.pkobp.pl"
 
       #- name: "PMI Oddział Warszawa"
       #logo: "img/logo_PMI.png"
