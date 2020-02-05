@@ -200,6 +200,17 @@ params:
         description: "Is it possible to successfully design and build new digital products and services from scratch with an external partner? If so, how does the process, the team, and the business arrangement differs from classic time & materials software house setup? Let's have a frank discussion about the common issues organizations face when trying to outsource product design and how to deal with them. Let's also get specific about focusing on outcomes instead of shipping new features. We will also touch on human and cultural aspects of the two approaches."
 
     - authors:
+        - name: "Gosia Fiedorow"
+          photo: "img/GFiedorow.jpg"
+          bio: "Gosia Fiedorow, Industrial Designer turned Digital Product Designer, believes pixels and code are not that different from wood and carpentery. She’s leading the product design team at Codility, a software platform transforming the way enterprise companies hire, retain and grow engineering teams."
+          link:
+            href: "https://www.linkedin.com/in/gosiafiedorow/"
+            text: LinkedIn
+      presentation:
+        title: "Finding Your Purpose in Chaos — a Designer’s Point of View"
+        description: "In her talk, Gosia will share her story of how she has managed to fit the design mindset into software development; where work is never really done… and never ends up exactly how it was envisioned in the beginning."
+
+    - authors:
         - name: "Aga Szóstek"
           photo: "img/Aga-120.jpg"
           bio: "Aga Szóstek, Ph.D. is a strategic designer. For the past two decades she worked at the forefront of combining design, technology and business. She collaborated with brands such as Google, Microsoft, Philips, Canon, Samsung, EY, Santander, ING, Orange and many more, bringing the experience-focused strategic approach to project teams and boardrooms. Her approach inspired many organisations to refocus and bet on experiences as their strategic differentiator.<br><br>
