@@ -55,8 +55,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-      text: "Registration is not yet open"
-      #link: "register"
+      text: "Free Registration"
+      link: "register"
       #text: "Zarejestruj się gratis"
       #link: "register"
 
