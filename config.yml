@@ -124,10 +124,17 @@ params:
       time: "13h45"
       remark: "Please, be on time!"
 
-    #- name: "AZA Group"
-      #time: "13h45"
-      #remark: "Kilka słów od sponsora: ,,Młodzi i ambitni. Jak bardzo zwinni? Czyli agile w AZAGroup''."
-
+    - authors:
+        - name: "Gojko Adžic"
+          photo: "img/Gojko.png"
+          bio: "Gojko Adzic is a strategic software delivery consultant who works with ambitious teams to align software delivery with business goals and improve the quality of their software products and processes. Gojko specializes in are Agile and Lean quality improvement, in particular Impact Mapping, Agile Testing, Specification by Example and Behavior Driven Development.<br>
+He is the winner of the 2016 European Software Testing Outstanding Achievement Award and the 2011 \"Most Influential Agile Testing Professional Award\"."
+          link:
+            href: "https://procognita.com/company/team/trainers/gojko-adzic/"
+            text: www
+      presentation:
+        title: "TBA"
+        description: ""
 
     - name: "Workshops"
       remark: "There will be 6 parallel workshops.<br><br>
