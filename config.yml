@@ -129,61 +129,18 @@ params:
       #remark: "Kilka słów od sponsora: ,,Młodzi i ambitni. Jak bardzo zwinni? Czyli agile w AZAGroup''."
 
 
-      #    - authors:
-      #        - name: "Jurgen De Smet"
-      #          photo: "img/jurgenDeSmet.jpg"
-      #          bio: "I am a Certified LeSS (Large-Scale Scrum) Trainer, Licensed Management 3.0 Trainer and ambassador at Startups.be, the group spearheading the entrepreneurial environment in Belgium. Inside I am still skateboarding, picking up new moves, adapting to ever-changing environments and freestyling with the best, wherever fresh design concepts for improving the world of work are emerging and being perfected."
-      #          #company: "Linux Foundation"
-      #          link:
-      #            href: "https://procognita.com/company/team/trainers/jurgen-de-smet/"
-      #            text: "www"
-      #      presentation:
-      #        title: "Why Should Most Organisations Ditch Scrum!"
-      #        description: "Thanks to HBR, McKinsey and more of those, Agile has become mainstream but is it Agile? I see Agile being used as synonym of Scrum even though Agile is more of an umbrella where Scrum is just one flavour of getting there. Many inquiries show that Scrum is the most used Agile flavour in the world and I’m here to tell you to stop that movement unless you truly mean it. Let me guide you through some basic elements and help you evaluate if you and your organisation should ditch Scrum or not. Help you recognise if you are truly a Scrum Master or rather a Scrum Novice. And much more."
+    - name: "Workshops"
+      remark: "There will be 6 parallel workshops.<br><br>
+      
+      <strong>1) Gojko Adzic: Specification by Example</strong><br>
+              
+      <strong>2) Tomasz Wykowski: Product Discovery</strong><br>
 
-      #    - authors:
-      #        - name: "ProCognita"
-      #          photo: "img/logo_procognita.png"
-      #          bio: "We believe that there will always be better ways to create products and services.<br>We are happy to help those who want to discover them with us.<br>We promote the Agile and Lean approach to product development. We share knowledge and support organizations through training, mentoring, talks and workshops. Our partners provide us with support and knowledge, and a different perspective to work with customers."
-      #          link:
-      #            href: "https://procognita.pl/"
-      #            text: "www"
-      #      presentation:
-      #        title: "Agile Workshops"
-      #        description: "There will be 5 parallel workshops.<br>
-      #        <strong>1) LeSS roleplay</strong><br>
-      #        Big organization, the complex product with multiple stakeholders, couple teams collaborating together. Try LeSS challenge in a safe environment. Join a roleplaying game with the most typical challenges faced by big companies.<br>
-      #        &nbsp Led by Justyna Wykowska<br>
-      #        &nbsp Language: English / Polish<br><br>
-      #
-      #        <strong>2) Responsibilities in Scrum</strong><br>
-      #        There is plenty of duties, and responsible decisions to take during delivering the product. In Scrum, we have three roles that must deal with all of this.<br>
-      #        How to correctly distribute responsibility and deal with assigned tasks? How is it in your and other organizations? We invite you to the discussion supported by tool Management in Scrum.<br>
-      #        In addition, you will have the opportunity to get to know and test an interesting approach to facilitating the meeting.<br>
-      #        &nbsp Led by Mariusz Petlic, Radek Gamracy<br>
-      #        &nbsp Language: English / Polish<br><br>
-      #        
-      #        <strong>3) Cynefin Lego workshop</strong><br>
-      #        There’s no one-size-fits-all approach to problem-solving, as the right decision-making model depends on the domain you’re in. The Cynefin model, created by Dave Snowden, explains how to make decisions in different domains, and this game will let you experience obvious, complicated, complex and chaotic systems.<br>
-      #        After this session, you will be able to explain why different domains need different decision-making models, identify the domain you’re currently in and choose the right approach to solve your problem.<br>
-      #        &nbsp Led by Tomasz Wykowski<br>
-      #        &nbsp language: English / Polish<br><br>
-      #        
-      #        <strong>4) Vision, Strategy, and Tactics</strong><br>
-      #        In other words, how to turn an idea into a valuable product. How and what strategic and tactical tools can we use to maximize the value of the product?<br>
-      #        During the workshop, we will learn the basic tools for product development management, ie. Elevator pitch (visioning & strategy), Impact Map (roadmap), and Product Backlog (tactics).<br>
-      #        &nbsp Led by Krzysztof Niewiński<br>
-      #        &nbsp Language: English / Polish<br><br>
-      #
-      #        <strong>5) Systems Modelling for Organisational Design</strong><br>
-      #        Many organisations are adopting Agile practices, mnay organisations are finding ways to improve but little of them are truly designing their organisations with understanding. Blindly adopting any kind of Agile Scaling framework will result in tensions that require effort and energy that could be used to deliver outcome instead.<br>
-      #        Want to avoid this in the future?<br>
-      #        Want to get a better understanding?<br>
-      #        Want to acquire a tool to help your organisation?<br>
-      #        We will guide you through a series of exercises that will generate insights in the organisational dynamics that are in place within a R&D organisation and it's surrounding departments. With that insight you will be able to design a perfect organisation and evaluate existing Agile Scaling frameworks on best fit in order to avoid tensions and maximise impact.<br>
-      #        &nbsp Led by Jurgen de Smet<br>
-      #        &nbsp Language: English
-      #"
+      <strong>3) Justyna Wykowska: Techniki priorytetyzacji backlogu</strong><br>
+      <strong>4) Mariusz Petlic: Output vs. Outcome</strong><br>
+      <strong>5) Ewa Koprowska: Scrum tale</strong><br>
+      <strong>6) Klaudia Komacka: ?</strong><br>
+      "
 
     - name: "Lunch"
       remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
@@ -226,7 +183,7 @@ params:
     - name: "Afterparty"
       remark: "Close by…"
       time: "~19h30"
-      #
+
       # DWÓCH PRELEGENTÓW WYGLĄDA TAK:
       #    - authors:
       #        - name: "Hanna Kaczyńska"

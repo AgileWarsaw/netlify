@@ -30,7 +30,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
             <td class="schedule-time">{{ .time }}</td>
             <td class="schedule-slot">{{ .name }}</td>
             {{ if ne .remark nil }}
-			<td class="schedule-description">{{ .remark }}</td>
+			<td class="schedule-description">{{ .remark | safeHTML }}</td>
 			{{ else }}
             <td class="schedule-description">-</td>
             {{ end }}
