@@ -133,20 +133,32 @@ He is the winner of the 2016 European Software Testing Outstanding Achievement A
             href: "https://procognita.com/company/team/trainers/gojko-adzic/"
             text: www
       presentation:
-        title: "TBA"
-        description: ""
+        title: "Maximum Impact, Minimum Effort"
+        description: "A big government IT project delivered two years ahead of schedule. A fraud detection initiative saving tens of millions more than predicted. An app that helped a city rebuild faster after a major disaster and save ten times more money than expected. Learn how early adopters use impact mapping to create big impacts and minimise effort, from large government departments to innovative consultancies and small startups.<br><br>
+This talk is based on an extensive research with commercial organisations, government departments and non-profit agencies from all over the world. Gojko will present real-world case studies and distill their experience into useful tips that will enable you to speed up adoption, avoid common pitfalls and reach your goals faster."
 
     - name: "Workshops"
       remark: "There will be 6 parallel workshops.<br><br>
       
-      <strong>1) Gojko Adzic: Specification by Example</strong><br>
+      <strong>1) Gojko Adzic: Given-when-then With Style</strong><br>
+      Hands-on workshop where you will learn about the key techniques to make the most out of the Given-When-Then format for specifications and tests, and how to avoid the most common problems<br>
+      In English<br><br>
               
-      <strong>2) Tomasz Wykowski: Product Discovery</strong><br>
+      <strong>2) Mariusz Petlic: Output vs. Outcome</strong><br>
+      Do we generate value or costs? What's the benefit and what's not? We will check if we can distinguish it both at work and in private life.<br>
+      In Polish<br><br>
 
-      <strong>3) Justyna Wykowska: Techniki priorytetyzacji backlogu</strong><br>
-      <strong>4) Mariusz Petlic: Output vs. Outcome</strong><br>
+      <strong>3) Tomasz Wykowski: Product Discovery</strong><br>
+      More info soon…<br><br>
+
+      <strong>4) Justyna Wykowska: Backlog Prioritization Techniques</strong><br>
+      More info soon…<br><br>
+
       <strong>5) Ewa Koprowska: Scrum Tale</strong><br>
+      More info soon…<br><br>
+
       <strong>6) Klaudia Komacka: TBA</strong><br>
+      More info soon…<br><br>
       "
 
     - name: "Lunch"
