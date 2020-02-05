@@ -442,6 +442,10 @@ nav {
 /*   font-family: "Lucida Console", Monaco, monospace; */
 }
 
+.speakers-bio > a {
+  text-decoration: underline;
+}
+
 .speakers-item p {
   font-size: 1.4em;
 }
