@@ -436,10 +436,6 @@ nav {
   font-size: 1.6em;
 }
 
-.speakers-bio > a {
-  text-decoration: underline;
-}
-
 .speakers-name > a {
 /*   font-size: 1em; */
   padding-left: 0.3rem; 
