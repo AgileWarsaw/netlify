@@ -199,17 +199,24 @@ params:
         title: "Building New Products and Businesses vs. Cranking out Code"
         description: "Is it possible to successfully design and build new digital products and services from scratch with an external partner? If so, how does the process, the team, and the business arrangement differs from classic time & materials software house setup? Let's have a frank discussion about the common issues organizations face when trying to outsource product design and how to deal with them. Let's also get specific about focusing on outcomes instead of shipping new features. We will also touch on human and cultural aspects of the two approaches."
 
-      #    - authors:
-      #        - name: "Paweł Polewicz"
-      #          photo: "img/reef.jpg"
-      #          bio: "Pawel is a software engineer with 16 years of professional experience ranging from programming in a local startup to leading large teams for an international corporation. Initially focused on doing things right, later switched to doing the right things. Three years ago he resigned from a full time position and started a software house and completed over 60 projects for businesses of all sizes based in USA, Canada, UK and Australia, from toilet paper level tracker to fintech timeseries analyzers."
-      #          link:
-      #            href: "http://reef.pl"
-      #            text: "www"
-      #      presentation:
-      #        title: "Death as BFF of every project"
-      #        description: "We've all heard interesting stories about projects which almost died, but have miraculously recovered. We can learn a lot from them by focusing on the turning points. In this talk we are going to go through a few examples and see how technological and organizational barriers can suddenly be eliminated in presence of a key catalyst: Fear Of Death. ☠️☠️☠️"
+    - authors:
+        - name: "Aga Szóstek"
+          photo: "img/Aga-120.jpg"
+          bio: "Aga Szóstek, Ph.D. is a strategic designer. For the past two decades she worked at the forefront of combining design, technology and business. She collaborated with brands such as Google, Microsoft, Philips, Canon, Samsung, EY, Santander, ING, Orange and many more, bringing the experience-focused strategic approach to project teams and boardrooms. Her approach inspired many organisations to refocus and bet on experiences as their strategic differentiator.<br><br>
+Next to consulting, Aga designs tools aiming to support delivering unique experiences and co-hosts a podcast about creative leadership: Catching The Next Wave. She graduated with her Ph.D. from the Eindhoven University of Technology, The Netherlands, and teaches experience design all around the world from the alternative business school Kaospilot in Denmark to Canterbury University in Christchurch, New Zealand."
+          link:
+            href: "http://www.seed-cards.com"
+            text: "Aga's cards"
+      presentation:
+        title: "It's All About the Axperience"
+        description: "We talk about how to design the right products in the right way, right? But is it truly the thing we should focus on? In my presentation, I will do my best to convince you that, in fact, we should focus on defining what sort of experience we aim at before we focus on designing products and services."
 
+
+    - name: "Afterparty"
+      remark: "Close by…"
+      time: "~19h30"
+      #
+      # DWÓCH PRELEGENTÓW WYGLĄDA TAK:
       #    - authors:
       #        - name: "Hanna Kaczyńska"
       #          photo: "img/kaczynska.jpg"
@@ -228,19 +235,3 @@ params:
       #        description: "Rynek szkoleń pełen jest gotowych rozwiązań, które pozwalają zdobywać czy rozwijać potrzebne w organizacji kompetencje. Trudno jednak w komercyjnych propozycjach znaleźć zgrabny pakiet uszyty na miarę dla konkretnej firmy. Ustalone pół roku wcześniej z firmą szkoleniową programy szybko się dezaktualizują i nie zawsze elastycznie się negocjują. Kiedy do tego wszystkiego dodamy nowe w organizacji role: Product Owner i Scrum Master oraz założymy, że organizacja chce inwestować w ich rozwój - zapotrzebowanie ilościowe i jakościowe na różne szkolenia rośnie...
       #Jak firma może poradzić sobie z tym wyzwaniem? I dlaczego, zamiast kupować gotowe ubrania ze sklepowych wieszaków, czasem warto mieć firmowego krawca, który zawsze zdejmie z nas właściwą miarę?<br>Zapraszamy do wysłuchania opowieści o pewnej Akademii Zwinności…"
 
-    - name: "Afterparty"
-      remark: "Close by…"
-      time: "~19h30"
-
-
-      #    - name: "Steve Wozniak"
-      #      photo: "/img/speaker.jpg"
-      #      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      #      company: "Apple, Inc."
-      #      link:
-      #        href: "http://twitter.com/woz"
-      #        text: "@woz"
-      #      presentation:
-      #        title: "Why do I prefer Android over iPhone"
-      #        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      #        time: "17h00"
