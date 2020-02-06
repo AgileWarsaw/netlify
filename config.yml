@@ -203,6 +203,17 @@ This talk is based on an extensive research with commercial organisations, gover
       remark: "Close by…"
       time: "~19h30"
 
+
+     ###########################
+     ###  WORKSHOP TRAINERS  ###
+     ###########################
+
+    - authors:
+        - name: "mich michalski"
+          bio: "Się urodził i dalej żyje."
+          link:
+      workshop: true
+
       # DWÓCH PRELEGENTÓW WYGLĄDA TAK:
       #    - authors:
       #        - name: "Hanna Kaczyńska"

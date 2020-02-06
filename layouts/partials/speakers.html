@@ -1,6 +1,7 @@
 <h2 class="section-title">{{ .titles.speakers }}</h2>
 
 <ul class="speakers-list">
+	<h2 class="tagline speaker-category">Speakers</h2>
 	{{ range $speaker := (where .schedule "presentation" "ne" nil) }}
 	
 	{{ if (ne .bio "skipThisFromSpeakers") }}
@@ -12,13 +13,6 @@
 			</span>
 			{{ end }}
 
-			<h3 class="speech-title">
-				{{ with .presentation.time }}
-				<span class="speech-time">{{ . }}</span>
-				{{ end }}
-				<span>{{ .presentation.title }}</span>
-			</h3>
-
 			<h3 class="speakers-name"><span itemprop="name">{{ .name }}</span>
 				{{ with .link }}
 				<a href="{{ .href }}" target="_blank" title="{{ .text }}"> [{{ .text }}] </a>
@@ -28,6 +22,29 @@
 			<p class="speakers-bio">{{ .bio | safeHTML }}</p>
 			</li>
 			{{ end }}
+		{{ end }}
+	{{ end }}
+
+	<!-- TRAINERS -->
+	<h2 class="tagline speaker-category">Trainers</h2>
+	{{ range $trainer := (where .schedule "workshop" "ne" nil) }}
+		{{ range $trainer.authors}}
+			<li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+			{{ with .photo }}
+				<span class="speaker-photo">
+					<img class="photo" src="{{ . }}" alt="{{ $trainer.name }}" itemprop="image">
+				</span>
+				{{ end }}
+
+				<h3 class="speakers-name"><span itemprop="name">{{ .name }}</span>
+					{{ with .link }}
+					<a href="{{ .href }}" target="_blank" title="{{ .text }}"> [{{ .text }}] </a>
+					{{ end }}
+				</h3>
+
+				<p class="speakers-bio">{{ .bio | safeHTML }}</p>
+
+			</li>
 		{{ end }}
 	{{ end }}
 </ul>

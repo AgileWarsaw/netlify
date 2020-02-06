@@ -856,6 +856,10 @@ h2 {
 /* =============================================================================
    SPEAKER
    ========================================================================== */
+h2.speaker-category {
+	font-size: 3em;
+}
+
 .speaker-photo .photo {
   border-radius: 50%;
   -webkit-transition: all 0.3s ease-out;
