@@ -166,11 +166,14 @@ This talk is based on an extensive research with commercial organisations, gover
 
     - authors:
         - name: "Zbigniew Sobiecki"
-          #photo: "img/AgaBT.jpg"
-          #bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
+          photo: "img/ZbigniewS.jpg"
+          bio: "I’ve been building software one way (with my own hands) or another (building teams and companies to do so) with dozens of technologies for almost 20 years now. Co-founded 5 companies.<br>
+Currently at Arabella Labs, helping fantastic teams build products for exciting startups and world-famous corporations.<br>
+In front of a computer (or terminal) screen since early ‘90s.<br>
+Rookie marathon runner: so far managed to complete the original Marathon-Athens course in 2015 and not die immediately thereafter. "
           link:
-              #href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
-              #text: LinkedIn
+              href: "http://zbigniew.me/"
+              text: LinkedIn
       presentation:
         title: "Building New Products and Businesses vs. Cranking out Code"
         description: "Is it possible to successfully design and build new digital products and services from scratch with an external partner? If so, how does the process, the team, and the business arrangement differs from classic time & materials software house setup? Let's have a frank discussion about the common issues organizations face when trying to outsource product design and how to deal with them. Let's also get specific about focusing on outcomes instead of shipping new features. We will also touch on human and cultural aspects of the two approaches."
