@@ -154,7 +154,7 @@ This talk is based on an extensive research with commercial organisations, gover
       <strong>4) Justyna Wykowska: Backlog Prioritization Techniques</strong><br>
       More info soon…<br><br>
 
-      <strong>5) Ewa Koprowska: Scrum Tale</strong><br>
+      <strong>5) Ewa Koprowska, Dominik Jabłoński: Scrum Tale</strong><br>
       More info soon…<br><br>
 
       <strong>6) Klaudia Komacka: TBA</strong><br>
@@ -209,9 +209,12 @@ This talk is based on an extensive research with commercial organisations, gover
      ###########################
 
     - authors:
-        - name: "mich michalski"
-          bio: "Się urodził i dalej żyje."
+        - name: "Domink Jabłoński"
+          photo: "img/DominikJ.jpg"
+          bio: "Agile Consultant at <a href=\"https://codesprinters.pl/\">Code Sprinters</a> with a diverse experience ranging from sales, through customer service, to QA and scrum mastery. He gained experience in small software houses as well as in HR and banking corporations. Apart from his fascination with Agile methodologies and how they change our work and life, he is an avid board game geek."
           link:
+             href: "https://www.linkedin.com/in/dominik-jab%C5%82onski-7baa9265/"
+             text: "LinkedIn"
       workshop: true
 
       # DWÓCH PRELEGENTÓW WYGLĄDA TAK:
