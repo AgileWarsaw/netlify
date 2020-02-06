@@ -185,16 +185,6 @@ This talk is based on an extensive research with commercial organisations, gover
       #      presentation:
       #        title: "Death as BFF of every project"
       #        description: "We've all heard interesting stories about projects which almost died, but have miraculously recovered. We can learn a lot from them by focusing on the turning points. In this talk we are going to go through a few examples and see how technological and organizational barriers can suddenly be eliminated in presence of a key catalyst: Fear Of Death. ☠️☠️☠️"
-    - authors:
-        - name: "Gosia Fiedorow"
-          photo: "img/GFiedorow.jpg"
-          bio: "Gosia Fiedorow, Industrial Designer turned Digital Product Designer, believes pixels and code are not that different from wood and carpentery. She’s leading the product design team at Codility, a software platform transforming the way enterprise companies hire, retain and grow engineering teams."
-          link:
-            href: "https://www.linkedin.com/in/gosiafiedorow/"
-            text: LinkedIn
-      presentation:
-        title: "Finding Your Purpose in Chaos — a Designer’s Point of View"
-        description: "In her talk, Gosia will share her story of how she has managed to fit the design mindset into software development; where work is never really done… and never ends up exactly how it was envisioned in the beginning."
 
     - authors:
         - name: "Gosia Fiedorow"
