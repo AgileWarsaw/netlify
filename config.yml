@@ -84,9 +84,9 @@ params:
       logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
-      #- name: "PKO BP"
-      #logo: "img/logo_PKOBP.jpg"
-      #url: "https://www.pkobp.pl"
+    - name: "PKO BP"
+      logo: "img/logo_PKOBP.jpg"
+      url: "https://www.pkobp.pl"
 
       #- name: "PMI Oddział Warszawa"
       #logo: "img/logo_PMI.png"
