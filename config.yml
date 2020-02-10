@@ -217,6 +217,42 @@ Rookie marathon runner: so far managed to complete the original Marathon-Athens 
      ###########################
 
     - authors:
+        - name: "Tomasz Wykowski"
+          photo: "img/TomekWykowski.png"
+          bio: "International storyteller, first Polish Certified Scrum Trainer. Always searching for new solutions."
+          link:
+              href: "https://procognita.com/company/team/trainers/tomasz-wykowski/"
+              text: "www"
+      workshop: true
+
+    - authors:
+        - name: "Justyna Wykowska"
+          photo: "img/JustynaWykowska.png"
+          bio: "Expert on feedback and important questions. Can help, when everything else will fail."
+          link:
+              href: "https://procognita.com/company/team/trainers/justyna-wykowska/"
+              text: "www"
+      workshop: true
+
+    - authors:
+        - name: "Mariusz Petlic"
+          photo: "img/MariuszPetlic.png"
+          bio: "Born to be a Team Coach. An inquisitive observer who never gives up."
+          link:
+              href: "https://procognita.com/company/team/trainers/mariusz-petlic/"
+              text: "www"
+      workshop: true
+
+      #- authors:
+      #- name: "Ewa Koprowska"
+      #photo: "img/.jpg"
+      #bio: ""
+      #link:
+      #href: ""
+      #text: "www"
+      #workshop: true
+
+    - authors:
         - name: "Domink Jabłoński"
           photo: "img/DominikJ.jpg"
           bio: "Agile Consultant at <a href=\"https://codesprinters.pl/\">Code Sprinters</a> with a diverse experience ranging from sales, through customer service, to QA and scrum mastery. He gained experience in small software houses as well as in HR and banking corporations. Apart from his fascination with Agile methodologies and how they change our work and life, he is an avid board game geek."
