@@ -74,9 +74,9 @@ params:
       logo: "img/logo_vistula.jpg"
       url: "http://www.vistula.edu.pl/"
 
-      #- name: "Slido"
-      #  logo: "img/logo_slido.jpg"
-      #  url: "http://www.slido.com"
+    - name: "Slido"
+      logo: "img/logo_slido.png"
+      url: "http://www.slido.com"
 
   # List of Partners
   Partners:
@@ -98,9 +98,9 @@ params:
       logo: "img/logo_APL.png" 
       url: "http://agilepolska.pl/"
 
-      #- name: "Agile 247"
-      #  logo: "img/logo_a247.png" 
-      #  url: "http://www.agile247.pl/"
+    - name: "Agile 247"
+      logo: "img/logo_a247.jpg" 
+      url: "http://www.agile247.pl/"
 
   Orgs:
     - name: "Łukasz Szóstek"
