@@ -129,7 +129,7 @@ params:
       remark: "Please, be on time!"
 
     - authors:
-        - name: "Gojko Adžic"
+        - name: "Gojko Adžić"
           photo: "img/Gojko.png"
           bio: "Gojko Adzic is a strategic software delivery consultant who works with ambitious teams to align software delivery with business goals and improve the quality of their software products and processes. Gojko specializes in are Agile and Lean quality improvement, in particular Impact Mapping, Agile Testing, Specification by Example and Behavior Driven Development.<br>
 He is the winner of the 2016 European Software Testing Outstanding Achievement Award and the 2011 \"Most Influential Agile Testing Professional Award\"."
@@ -153,10 +153,13 @@ This talk is based on an extensive research with commercial organisations, gover
       In Polish<br><br>
 
       <strong>3) Tomasz Wykowski: Product Discovery</strong><br>
-      More info soon…<br><br>
+      What you don’t know about your product?<br>
+      Join this session to learn why discovering the product is critical for its success and experience tools for defining Product Vision and Success Criteria.<br>
+      In English unless all the participants speak Polish.<br><br>
 
       <strong>4) Justyna Wykowska: Backlog Prioritization Techniques</strong><br>
-      More info soon…<br><br>
+      When everything is important, nothing is important. During this workshop you’ll try different techniques for prioritizing your Product Backlog to find the ones that work for your company.<br>
+      In English unless all the participants speak Polish<br><br>
 
       <strong>5) Ewa Koprowska, Dominik Jabłoński: Scrum Tale</strong><br>
       More info soon…<br><br>
@@ -219,7 +222,9 @@ Rookie marathon runner: so far managed to complete the original Marathon-Athens 
     - authors:
         - name: "Tomasz Wykowski"
           photo: "img/TomekWykowski.png"
-          bio: "International storyteller, first Polish Certified Scrum Trainer. Always searching for new solutions."
+          bio: "“We learn thru all our life, therefore learning needs to be fun.”<br>
+          As an Agile Coach and Trainer, Tomasz supports individuals and organizations in their quest for Agility, better results and amazing workplace. He's the first Polish Certified Scrum Trainer and LeSS-Friendly Scrum Trainer. He understands the needs of young companies and helps them succeed in their markets.<br>
+Tomasz holds a Master's Degree in Automatic and Robotic and has a broad experience in software development from different perspectives, including engineering, quality assurance, project management and Agile Coaching. In 2010 he founded ProCognita, a training and consulting company."
           link:
               href: "https://procognita.com/company/team/trainers/tomasz-wykowski/"
               text: "www"
@@ -228,7 +233,9 @@ Rookie marathon runner: so far managed to complete the original Marathon-Athens 
     - authors:
         - name: "Justyna Wykowska"
           photo: "img/JustynaWykowska.png"
-          bio: "Expert on feedback and important questions. Can help, when everything else will fail."
+          bio: "“Behind every product, there are people who are creating it.”<br>
+An engineer, software developer, manager, Product Owner, Scrum Master, trainer, personal coach, and Agile specialist. By combining a technical degree with soft skills education and real-life experience, Justyna emphasizes the collaboration and communication factors in organizations and teams' dynamics.<br>
+For almost a decade Justyna has led diverse multinational and distributed teams involved in huge projects. Since 2014 she is working with ProCognita as an Agile Coach and Trainer, supporting companies from many business sectors including customer support, software and hardware development."
           link:
               href: "https://procognita.com/company/team/trainers/justyna-wykowska/"
               text: "www"
@@ -237,7 +244,9 @@ Rookie marathon runner: so far managed to complete the original Marathon-Athens 
     - authors:
         - name: "Mariusz Petlic"
           photo: "img/MariuszPetlic.png"
-          bio: "Born to be a Team Coach. An inquisitive observer who never gives up."
+          bio: "“The quality of the product is created by the quality of the process.”<br>
+          I am fascinated by the quality of the product and the process. I would like to help you refine your product so that customers are satisfied and recommend it to others. That is why it is important to constantly improve the process of creating a product. If you do not want to spend money on activities that may end in failure, we can find together the best models for creating new products and developing existing ones.<br>
+I worked with companies: ComputerLand, Systemy Kodów Kreskowych, Hurra.com, eSky.pl. As an active Scrum Master, I supported and built teams. Now I'm an Agile Coach. At work with major companies I have learned how to test products and I will gladly share this knowledge with you."
           link:
               href: "https://procognita.com/company/team/trainers/mariusz-petlic/"
               text: "www"
