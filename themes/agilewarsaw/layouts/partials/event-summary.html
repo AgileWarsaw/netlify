@@ -18,7 +18,7 @@
             <img class="YT-icon-small" src="/assets/YT-gray.svg">
         {{ end }}
         {{ with .Params.slidesURL }}
-        <a href="{{ cond ( hasPrefix . "http" ) . (path.Join $.Dir . | absURL)}}">
+        <a href="{{ path.Join $.Dir . | absURL}}">
             <img class="slides-icon-small" src="/assets/slides.svg">
         </a>
     {{ end }}
