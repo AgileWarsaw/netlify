@@ -23,10 +23,6 @@ Czym więc dokładnie jest wartość biznesowa?  Co to znaczy maksymalizowanie w
 <br/>
 W trakcie spotkania poszukamy odpowiedzi na powyższe pytania. 
 
-### Dla kogo?
-
-Dla liderów chcących skutecznie wspierać rozwój zespołów.
-
 ### O prowadzącym 
 
 <a href="https://www.linkedin.com/in/przemyslaw-piwowar/" target="_blank">Przemysław</a> jest nieugiętym optymistą, który dostrzega wiele możliwości w każdej sytuacji. Konsekwentnie przekonuje, że napotykanie trudności są jedynie impulsem do działań, dzięki którym można się jeszcze więcej nauczyć. Głęboko wierzy, że wszystko można ulepszyć, wyeliminować wady i odszukać nowe możliwości nawet w kryzysie. Lubi eksperymentować.
