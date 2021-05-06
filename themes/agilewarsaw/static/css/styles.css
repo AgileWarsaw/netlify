@@ -374,9 +374,9 @@ img.slides-icon {
 }
 
 img.slides-icon-small {
-    height: 2ex;
+    height: 1.5ex;
     position: relative;
-    top: 0.5ex;
+    top: 1px;
 }
 
 div.all-events-list event {
