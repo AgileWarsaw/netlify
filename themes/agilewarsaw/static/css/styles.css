@@ -367,10 +367,10 @@ img.lang-icon {
 }
 
 img.slides-icon {
-    height: 3ex;
+    height: 2ex;
     padding-right: 0.5em;
     position: relative;
-    bottom: -0.7ex;
+    top: 3px;
 }
 
 img.slides-icon-small {
