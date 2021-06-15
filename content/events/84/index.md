@@ -6,6 +6,7 @@ speakers: "Michał Parkoła"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "https://www.slideshare.net/FluidCircle/so-good-they-cant-ignore-you-na-agile-warsaw"
 draft: false
 ---
 
@@ -21,5 +22,4 @@ Jako uczestnik wyjdziesz z odpowiedziami na pytania:
 
   3. Dlaczego nie warto celować w "mistrzostwo" i co robić zamiast tego?
 
-<a href="https://www.slideshare.net/FluidCircle/so-good-they-cant-ignore-you-na-agile-warsaw" target="_blank">Prezentacja</a>.
 

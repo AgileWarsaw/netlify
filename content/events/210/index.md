@@ -6,7 +6,7 @@ speakers: "Joanna Gosk, Dawid Lewandowicz"
 lang: "pl"
 sponsors: ["Reef Technologies"]
 videoURL: ""
-
+slidesURL: "prezentacja_community.pdf"
 draft: false
 ---
 
@@ -37,7 +37,5 @@ Charakteryzuję się niekonwencjonalnymi pomysłami, wielokontekstową analizą 
 Jestem również wykładowcą Technik Zwinnych na WMiI UAM, współzałożycielem największego w Polsce portalu o metodach zwinnych agile247.pl, prowadzę szkolenia i konsultacje w ramach 202procent.pl oraz jestem współzałożycielem S29 Technologies INC. w Calgary, Kanada.
 
 ## Materiały
-
-<a href="prezentacja_community.pdf" target="_blank">Prezentacja z spotkania</a>
 
 <a href="mural.pdf" target="_blank">Tablica Mural</a>

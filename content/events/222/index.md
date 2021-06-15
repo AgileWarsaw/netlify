@@ -6,6 +6,7 @@ speakers: "Marcin Kępka"
 lang: "pl"
 sponsors: ["CodeSprinters", "JetBrains"]
 videoURL: "https://www.youtube.com/watch?v=AecyNwwfRIk"
+slidesURL: "dług_techniczny_v1_short.pdf"
 draft: false
 ---
 
@@ -19,4 +20,3 @@ Marcin Kępka [LinkedIn](https://www.linkedin.com/in/marcin-k%C4%99pka-74060a176
 
 W wieku 7 lat napisał na drzwiach swojego pokoju “prof. dr hab. med.”, jednakże po wielu latach nauki ekonomii odkrył swoje prawdziwe powołanie w branży IT. Od 18 lat zdobywa doświadczenie w rozwoju oprogramowania jako analityk, kierowników projektów informatycznych, a od kilku lat również jako Scrum Master. Prywatnie mąż i ojciec wspaniałej trójki dzieci, od których uczy się łamania ,,status quo'' i kreatywnego podejścia do ,,nudnego i poważnego'' świata dorosłych.
 
-<a href="dług_techniczny_v1_short.pdf" target="_blank">Prezentacja ze spotkania</a> 

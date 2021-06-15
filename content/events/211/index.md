@@ -6,6 +6,7 @@ speakers: "Anna Chodynicka, Joanna Więckowska"
 lang: "pl"
 sponsors: ["Emic Lab", "Code Sprinters"]
 videoURL: "https://www.youtube.com/watch?v=Ay2v0VECzNw"
+slidesURL: "prezentacja.pdf"
 draft: false
 ---
 
@@ -20,6 +21,5 @@ Frustracji pracowników można zaradzić, owocna współpraca z zagranicznymi ze
 
 <a href="https://www.linkedin.com/in/joannawieckowska/" target="_blank">Joanna Więckowska</a> – trener biznesu i psycholog międzykulturowy. Specjalizuje się w coachingu i szkoleniach z zakresu zarządzania i współpracy w środowisku międzynarodowym. Autorka publikacji z zakresu akulturacji, relacji międzynarodowych i stereotypów. Doświadczenie zawodowe wzbogaca o osobiste doświadczenia współpracy biznesowej z partnerami z krajów Azji i Afryki Pn.
 
-<a href="prezentacja.pdf" target="_blank">Prezentacja z spotkania</a>
 
 <a href="książki.pdf" target="_blank">Książki o współpracy międzynarodowej</a>

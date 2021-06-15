@@ -6,6 +6,7 @@ speakers: "Paweł Pietruszka, Bartek Janowicz"
 lang: "Wpisz pl albo en"
 sponsors: ["Aviva", "Agile Mindset"]
 videoURL: ""
+slidesURL: "https://www.slideshare.net/secret/1rdzYgyRtTnje7"
 draft: false
 ---
 
@@ -30,7 +31,6 @@ Bartek Janowicz
 
 Właściciel Proinnovate, współwłaściciel Agile Mindset. Między 2010-2013 ekspert i menedżer ds. rozwoju i szkoleń w ING Banku Śląskim. Koordynował działania rozwijające postawy menedżerów, wdrażał pierwsze działania rozwijające umiejętności facylitacyjne w Banku oraz inicjatywy rozwoju przedsiębiorczości. Obecnie łączy wieloletnie HR-owskie doświadczenia w zakresie rozwoju kultury organizacyjnej z doradztwem w zakresie skalowania Agile oraz zwinności w codziennej pracy pracowników. Certyfikowany facylitator (CPF), praktyk Lean Startup, szef merytoryczny akceleratora przemysłowego oraz polski ambasador konferencji Lean Startup EMEA Conference w Amsterdamie (marzec 2018)
 
-<a href="https://www.slideshare.net/secret/1rdzYgyRtTnje7" target="_blank">Slajdy z spotkania</a>
 
 Wynik dyskusji:
 

@@ -6,6 +6,7 @@ speakers: "Piotr Burdyło"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "https://www.slideshare.net/pburdylo/cynefin-at-agile-warsaw-13205234"
 draft: false
 ---
 
@@ -17,7 +18,6 @@ W naszej praktyce można korzystać z niej jako narzędzia wspierającego zarzą
 
 Po wewnętrznej firmowej korekcie usłyszałem, że Cynefin to żadna teoria tylko sense-making framework. Będzie zatem również i o tym co to jest ten sense-making framework…
 
-<a href="https://www.slideshare.net/pburdylo/cynefin-at-agile-warsaw-13205234" target="_blank">Prezentacja</a>
 
 ---
 

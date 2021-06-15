@@ -6,6 +6,7 @@ speakers: "Paweł Jarosiński"
 lang: "pl"
 sponsors: ["7N"]
 videoURL: "https://www.youtube.com/watch?v=qD4-JZjwz18"
+slidesURL: "https://prezi.com/bdbr4m9glh3s/sposob-na-analize-w-agile-agile-modeling/"
 draft: false
 ---
 
@@ -15,7 +16,6 @@ Na spotkaniu skupię się na jednym z głównych efektów prac analityka - model
 
 Znajdziecie potwierdzenie dla niektórych swoich pomysłów na takie modelowanie oraz poznacie nowe, które warto zastosować w codziennej pracy.
 
-<a href="https://prezi.com/bdbr4m9glh3s/sposob-na-analize-w-agile-agile-modeling/" target="_blank">Prezentacja z spotkania</a>
 
 Nagranie z wystąpienia Pawła "Pomysł na analizę w Agile: Agile Modeling" wygłoszonej na spotkaniu "IIBA PC Business Analysis Round-tables"
 

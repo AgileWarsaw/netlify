@@ -6,6 +6,7 @@ speakers: "Karol Traczykowski"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "https://www.slideshare.net/karolt/agile-portfolio-31071835"
 draft: false
 ---
 
@@ -15,4 +16,3 @@ Warto pójść dalej i stosować zwinne podejście w odniesieniu do wszystkich r
 
 Podzielę się znaną mi teorią, ale przede wszystkim przedstawię przykłady z życia GoldenLine, w którym zwinność i elastyczność królują od strategii produktowej po pojedyncze zadania techniczne. Opowiem o tym, jak dochodzimy od celów firmowych przez plany na rok i kwartał po projekty, releasy i sprinty :) Wspomnę też jak obsługujemy zadania adhoc-owe oraz bugi/fixy i pożary. Dorzucę do tego to, jak angażujemy w to wszystko cały zespół i jak mierzymy postępy. Na pewno przedstawię ”success story”. Nie ukryję też jednak tego, co nam się nie udało ;)
 
-<a href="https://www.slideshare.net/karolt/agile-portfolio-31071835" target="_blank">Slajdy z prezentacji</a>.

@@ -6,6 +6,7 @@ speakers: "Adrian Janik, Mateusz Hauk"
 lang: "pl"
 sponsors: ["QAgile", "CodeSprinters"]
 videoURL: "https://www.youtube.com/watch?v=2iCLflLN-HE"
+slidesURL: "Prezentacja.pdf"
 draft: false
 ---
 
@@ -34,5 +35,4 @@ Kariera i rozwój: Ukończył Uniwersytet Łódzki na kierunku Psychologia dorad
 i organizacji. Obecnie jest adiunktem w Zakładzie Psychologii Biznesu i Doradztwa Kariery w Instytucie Psychologii Uniwersytetu Łódzkiego. Jest certyfikowanym Trenerem Biznesu (poziom EQF 5 EUROPEAN QUALIFICATION FRAMEWORK). Realizował projekty w zakresie doboru zawodowego, oceny pracowników i kandydatów do pracy, badania potrzeb szkoleniowych, projekty rozwojowe (szkolenia, coachingi, rozmowy rozwojowe), projekty z zakresu budowania modeli kompetencyjnych i profili kompetencyjnych itp. Tworzył zespół oceny kompetencji i zarządzał jego pracą; brał udział w ponad 85 sesjach Assessment Centre / Development Centre (głównie jako asesor prowadzący).
 Obecnie współtworzy turkusową organizację. W swoich działaniach propaguje ideę samozarządzania i samoorganizacji. Duży nacisk kładzie na tworzenie sprzyjających warunków i relacji w miejscu pracy.
 
-<a href="Prezentacja.pdf" target="_blank">Prezentacja ze spotkania</a></br>
 <a href="Pytania.pdf" target="_blank">Przykładowe pytania coachingowe</a>

@@ -6,6 +6,7 @@ speakers: "Marek Kirejczyk"
 lang: "en"
 sponsors: ["ElPassion"]
 videoURL: ""
+slidesURL: "https://prezi.com/x1mjp_gu0fmj/from-scrum-to-kanban/"
 draft: false
 ---
 

@@ -6,6 +6,7 @@ speakers: "Aneta Osiak"
 lang: "pl"
 sponsors: ["AVIVA"]
 videoURL: "https://www.youtube.com/watch?v=GTrNVnFoH8o"
+slidesURL: "AW112.pdf"
 draft: false
 ---
 
@@ -15,5 +16,4 @@ Podzielę się z Wami moim odbiorem do czego ja wykorzystuję NVC i co jeszcze p
 
 Zapraszam serdecznie do towarzyszenia mi w tym nie lada wyzwaniu ;)
 
-<a href="AW112.pdf" target="_blank">Prezentacja z spotkania</a>.
 

@@ -6,6 +6,7 @@ speakers: "Mary Poppendieck"
 lang: "en"
 sponsors: ["Procognita", "Vistula"]
 videoURL: "https://youtu.be/Jy9GIf7lXMg"
+slidesURL: "ImpossibleProblems.pdf"
 draft: false
 ---
 
@@ -15,6 +16,5 @@ Necessity is the mother of invention. When things grow incrementally, you can ex
 
 <a href="http://ijbd.eu/?p=489" target="_blank">Jacek Błocki's notes from the talk</a>
 
-<a href="ImpossibleProblems.pdf" target="_blank">Slides "Impossible Problems"</a>
 
 

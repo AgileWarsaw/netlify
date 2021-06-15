@@ -6,6 +6,7 @@ speakers: "Małgorzata Polińska-Fotek"
 lang: "pl"
 sponsors: ["Reef Technologies"]
 videoURL: ""
+slidesURL: "Style zachowań.pdf"
 draft: false
 ---
 
@@ -33,8 +34,6 @@ W swojej pracy kieruje się zasadą: rozwiązania blisko ludzi.
 W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży.
 
 #### Materiały ze spotkania: 
-
-1. <a href="Style zachowań.pdf" target="_blank">Prezentacja</a> 
 
 1. <a href="warsztaty.zip" target="_blank">Pliki z ćwiczeń z prawidłowymi odpowiedziami</a> 
 

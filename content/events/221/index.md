@@ -6,6 +6,7 @@ speakers: "Lucia Baldelli & Raquel Silva"
 lang: "eng"
 sponsors: ["ProCognita"]
 videoURL: ""
+slidesURL: "presentation.pdf"
 draft: false
 ---
 We have a pleasure to host Lucia and Raquel by courtesy of ProCognita (http://procognita.pl).
@@ -34,4 +35,3 @@ Agile Practitioner who cares passionately about helping deliver value to clients
 Besides that, her main mission is to contribute every day to make the workplace a more human place where people enjoy being, trust each other and work better together.
 Raquel is a PCC, International Coaching Federation, Certified Team Coach (CTC), CAL Educator, Path to CSP Educator and ORSC trained practitioner also an active member of the Agile and Coaching Community, ICAgile Authorized instructor for Agile Team Facilitator (ICP-ATF) and Coaching Agile Teams (ICP-ACC).
 
-<a href="presentation.pdf" target="_blank">Presentation from the meeting</a> 

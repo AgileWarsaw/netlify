@@ -6,6 +6,7 @@ speakers: "Jurgen Appelo"
 lang: "en"
 sponsors: ["ProCognita"]
 videoURL: "https://www.youtube.com/watch?v=zKSV4zZ0oXw"
+slidesURL: "http://www.slideshare.net/jurgenappelo/management-30-workout"
 draft: false
 ---
 
@@ -28,10 +29,8 @@ Jurgen Appelo - mówca, trener, autor książek. Jeden z najbardziej rozpoznawal
 
 Materiały po spotkaniu:
 
-1. <a href="http://www.slideshare.net/jurgenappelo/management-30-workout" target="_blank">prezentacja Jurgena</a>
+1. <a href="https://www.youtube.com/watch?v=mJB83EZtAjc" target="_blank">prezentacja Google o OKRs</a>
 
-2. <a href="https://www.youtube.com/watch?v=mJB83EZtAjc" target="_blank">prezentacja Google o OKRs</a>
-
-3. <a href="https://web.archive.org/web/20160604032623/http://blog.elpassion.com/every-startup-needs-v2mom/" target="_blank">organizacje w PL używające podobnej praktyki - V2MOM, wywodzącej się z salesforce.com</a>
+2. <a href="https://web.archive.org/web/20160604032623/http://blog.elpassion.com/every-startup-needs-v2mom/" target="_blank">organizacje w PL używające podobnej praktyki - V2MOM, wywodzącej się z salesforce.com</a>
 
 Nagranie z biźniaczego wystąpienia Jurgena na Agile Tour Lithuania 2014:

@@ -6,6 +6,7 @@ speakers: "Ewa Koprowska, Łukasz Szóstek"
 lang: "pl"
 sponsors: ["Code Sprinters"]
 videoURL: ""
+slidesURL: "VBD-SM-handout.pdf"
 draft: false
 ---
 
@@ -17,4 +18,3 @@ Warsztat ma dwa cele: pokazanie metody VBD w praktyce oraz zastosowanie jej indy
 
 Przy okazji warsztat jest próbą generalną przed Dojo na AgileByExample 2020.
 
-<a href="VBD-SM-handout.pdf" target="_blank">Prezentacja ze spotkania</a>

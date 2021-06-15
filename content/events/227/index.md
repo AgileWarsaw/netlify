@@ -6,6 +6,7 @@ speakers: "Piotr Włodarczyk"
 lang: "pl"
 sponsors: ["CodeSprinters", "Agile Rebels", "JetBrains"]
 videoURL: "https://www.youtube.com/watch?v=peGKeSt7L98"
+slidesURL: "AgileWarsaw - jakość.pdf"
 draft: false
 ---
 
@@ -33,4 +34,3 @@ Produkt Ownerów, Managerów oraz Zespołów Scrumowych.
 Prywatnie ojciec dwójki wspaniałych dzieci i równie wspaniałej żony. Hobbystycznie robi zabawki z drewna dla swoich dzieci. Żeby zachować równowagę medytuje i podróżuje własnym kamperem.
 
  
-<a href="AgileWarsaw - jakość.pdf" target="_blank">Slajdy ze spotkania</a>

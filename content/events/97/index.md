@@ -6,6 +6,7 @@ speakers: "Agnieszka Biernacka"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "AW97.pdf"
 draft: false
 ---
 
@@ -19,5 +20,4 @@ Przedstawię kilka teorii psychologicznych i trochę praktycznych pomysłów, ja
 
 Uwaga – wystąpienie będzie prowadzone w duchu antymanipulacji – pokazuje jak pracować w sposób transparentny, z poszanowaniem wolności i godności każdego członka zespołu, z nastawieniem na rozwój i poprawę jakości życia.
 
-<a href="AW97.pdf" target="_blank">Prezentacja z spotkania</a>.
 

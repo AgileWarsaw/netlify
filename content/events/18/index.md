@@ -6,6 +6,7 @@ speakers: "Marek Kirejczyk"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "https://prezi.com/hxzou9fz5uqg/negocjacje/"
 draft: false
 ---
 
@@ -16,4 +17,3 @@ Nie tylko pokazuje jak duże koncerny nadużywają tego systemu, by wymuszać sw
 
 Jest jeszcze jedna rzecz, która zwróciła moją uwagę. Rzadko zdajemy sobie sprawę, że prowadzimy negocjacje niemal non-stop, w domu, w pracy, w szkole, w sklepie, w pociągu i na basenie. Stąd moje wrażenie, że system Campa to coś więcej niż negocjacje, że zawiera dużo elementów wywierania wpływu na ludzi i filozofii życia.
 
-<a target="_blank" href="https://prezi.com/hxzou9fz5uqg/negocjacje/">Prezentacja</a>

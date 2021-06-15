@@ -6,6 +6,7 @@ speakers: "Karol Traczykowski"
 lang: "Wpisz pl albo en"
 sponsors: []
 videoURL: ""
+slidesURL: "Agile-w-GoldenLine.pdf"
 draft: false
 ---
 
@@ -15,4 +16,4 @@ Na te, i inne, pytania odpowiem w czasie swojej prezentacji na temat Agile w Gol
 
 Serdecznie zapraszam
 
-[slajdy z prezentacji](Agile-w-GoldenLine.pdf)
+

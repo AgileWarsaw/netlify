@@ -6,6 +6,7 @@ speakers: "Paweł Wrzeszcz"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "https://www.slideshare.net/pawelwrzeszcz/how-to-stay-awake-during-teleconferences"
 draft: false
 ---
 
@@ -24,5 +25,4 @@ Chciałbym podzielić się swoim doświadczeniem i opowiedzieć o tym:
 
 Jeśli w swojej pracy spotykasz się z powyższymi wyzwaniami, to ta prezentacja jest właśnie dla Ciebie.
 
-<a href="https://www.slideshare.net/pawelwrzeszcz/how-to-stay-awake-during-teleconferences" target="_blank">Slajdy z spotkania</a>.
 

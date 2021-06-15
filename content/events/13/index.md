@@ -6,7 +6,7 @@ speakers: "Grzegorz Machniewski, Dawid Mielnik"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "https://www.slideshare.net/dmielnik/presentation-agile-telco"
 draft: false
 ---
 
-<a href="https://www.slideshare.net/dmielnik/presentation-agile-telco" target="_blank">Slajdy</a>.

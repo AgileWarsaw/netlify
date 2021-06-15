@@ -6,6 +6,7 @@ speakers: "Marek Kirejczyk, Tomek Bartaczak, Michał Lipski, Kuba Nabrdalik, Mic
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "Prezentacja.pdf"
 draft: false
 ---
 
@@ -22,7 +23,6 @@ Masz swoje doświadczenia? Chcesz się podzielić? Przygotuj 10-15 minutowe wyst
 
 Materiały ze spotkania:
 
-  * <a href="Prezentacja.pdf" target="_blank">Prezentacja Marka</a>
   * <a href="https://gist.github.com/michal-lipski/10844914" target="_blank">Podsumowanie wystąpienia Tomka i Michała</a>  
   * <a href="https://www.youtube.com/watch?v=RhzoQkyg_m8&feature=youtu.be" target="_blank">Filmik o Clopduino z wystąpienia Michała</a>
 

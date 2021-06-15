@@ -6,6 +6,7 @@ speakers: "Maciej Sowiński"
 lang: "pl"
 sponsors: ["Reef Technologies"]
 videoURL: ""
+slidesURL: "prezentacja.pdf"
 draft: false
 ---
 
@@ -18,4 +19,3 @@ Maciej Sowiński zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku,
 
 Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo.
 
-<a href="prezentacja.pdf" target="_blank">Prezentacja ze spotkania</a> 

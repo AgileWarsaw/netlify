@@ -6,6 +6,7 @@ speakers: "Marta Grochowska"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "AgileWarsaw-20140324-MartaGrochowska-Service_design.pdf"
 draft: false
 ---
 
@@ -15,4 +16,3 @@ Co to jest service design? Jak pomaga w projektowaniu usług i produktów? Jak p
 
 Marta Grochowska na codzień zajmuje się bankowością mobilną od strony zarządzania produktem i business developmentem. W pracy koncentruje się na tworzeniu produktów przyjaznych użytkownikom z wykorzystaniem podejść service design oraz design thinking.
 
-<a href="AgileWarsaw-20140324-MartaGrochowska-Service_design.pdf" target="_blank">Prezentacja (PDF)</a>

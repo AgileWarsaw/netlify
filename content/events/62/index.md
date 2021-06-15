@@ -6,6 +6,7 @@ speakers: "Paweł Brodziński"
 lang: "pl"
 sponsors: []
 videoURL: "https://www.youtube.com/watch?v=__yR1d5aY74"
+slidesURL: "https://www.slideshare.net/pawelbrodzinski/efficient-or-just-busy"
 draft: false
 ---
 
@@ -23,5 +24,4 @@ The session will address these questions challenging some of commonly accepted m
 
 The outcome of the session should be a fresh view at how we do the work as well as learning a few ideas how to make our teams more efficient.
 
-<a href="https://www.slideshare.net/pawelbrodzinski/efficient-or-just-busy" target="_blank">Prezentacja z spotkania</a>.
 

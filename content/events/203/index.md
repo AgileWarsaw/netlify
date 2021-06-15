@@ -6,6 +6,7 @@ speakers: "Ania Szypszak"
 lang: "en"
 sponsors: ["QAgile", "CodeSprinters"]
 videoURL: "https://www.youtube.com/watch?v=iKQBzj7uLCU"
+slidesURL: "AW203.pdf"
 draft: false
 ---
 
@@ -15,4 +16,3 @@ We often hear that the only reasonable way to implement a framework is to take i
 
 Agile Coach, Scrum Master, Design Thinking process moderator. For a few years I've been working with agile teams and with organisations that are undergoing agile development or agile change. Apart from that I conduct trainings and workshops on agile, visual facilitation, creative techniques and communication. For me, Agile is a path to enable skilled individuals to make the most of teamwork, smooth process flow, value delivery and individual growth. I have worked with Teams whose model of work ranged from almost pure Scrum to very customised Agile processes and I tried to learn as much as I could from each Team :)
 
-<a href="AW203.pdf" target="_blank">Meeting slides</a>

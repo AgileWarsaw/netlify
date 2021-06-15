@@ -6,6 +6,7 @@ speakers: "Marek Kirejczyk"
 lang: "en"
 sponsors: ["sponsor1", "sponsor2"]
 videoURL: ""
+slidesURL: "https://prezi.com/ap5oj25wkgwi/code-review-pair-programming/"
 draft: false
 ---
 

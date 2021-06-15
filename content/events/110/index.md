@@ -6,6 +6,7 @@ speakers: "Marek Kirejczyk"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "https://www.slideshare.net/MarekKirejczyk/truly-agile-company"
 draft: false
 ---
 
@@ -22,5 +23,4 @@ Spróbujmy się zastanowić się:
   * Jak się w tym wszystkim nie pogubić?
   * Jak pracować z ludzmi i budować w nich potencjał zmiany?
 
-<a href="https://www.slideshare.net/MarekKirejczyk/truly-agile-company" target="_blank">Prezentacja</a>
 

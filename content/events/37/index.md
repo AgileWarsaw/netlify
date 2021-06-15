@@ -6,9 +6,9 @@ speakers: "Jarek Potiuk"
 lang: "pl"
 sponsors: []
 videoURL: ""
+slidesURL: "Polidea-Way-na-sterydach-(Agile-w-Mobile).pdf"
 draft: false
 ---
 
 Kontynuacja spotkania sprzed roku [(spotkanie #17)](/events/17): Jarek Potiuk, CTO Polidei opowie tym co stało się przez rok z narzędziami które stosuje Polidea przy tworzeniu aplikacji mobilnych.
 
-[Prezentacja](Polidea-Way-na-sterydach-(Agile-w-Mobile).pdf)

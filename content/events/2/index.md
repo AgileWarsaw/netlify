@@ -6,6 +6,7 @@ speakers: "Mateusz Srebrny"
 lang: "pl"
 sponsors: ["sponsor1", "sponsor2"]
 videoURL: ""
+slidesURL: "https://www.slideshare.net/mateuszsrebrny/agilewarsaw-spikes"
 draft: false
 ---
 
@@ -18,4 +19,3 @@ Pytanie, jaki ma być wynik takiego zadania, jak uwzględniać czas na to potrze
 
 Jako zalążek dyskusji opowiem o dwóch sposobach organizacji spike'ów, w których uczestniczyłem i które mniej lub bardziej się sprawdzały.
 
-<a href="https://www.slideshare.net/mateuszsrebrny/agilewarsaw-spikes">Prezentacja</a>

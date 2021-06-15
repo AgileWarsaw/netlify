@@ -6,6 +6,7 @@ speakers: "Michael Vax"
 lang: "en"
 sponsors: ["Aviva"]
 videoURL: ""
+slidesURL: "TechnicalDebt_Michael_Vax.pdf"
 draft: false
 ---
 
@@ -24,6 +25,5 @@ In this talk Michael will share ideas of best Agile thinkers on the topic of Tec
 
 Hi, My name is Michael Vax and I have just moved to Warsaw to work as CTO at WebInterpret. I have a lot of experience in Agile and participating in agile community. Back in Vancouver I was one of organizers of <a href="https://web.archive.org/web/20161003103107/http://agilevancouver.ca/" target="_blank">Agile Vancouver user group</a> and organized and presented on conference and different Agile events. Here are links to some of my presentations <a href="http://www.slideshare.net/search/slideshow?searchfrom=header&q=michael+vax" target="_blank">some of my presentations</a>.
 
-<a href="TechnicalDebt_Michael_Vax.pdf" target="_blank">Slides: "Technical Debt - the Business Perspective"</a>
 
 

@@ -6,6 +6,7 @@ speakers: "Marta Orbitowska, Paulina Orbitowska-Fernandez"
 lang: "pl"
 sponsors: ["QAgile", "Reef Technologies"]
 videoURL: "https://www.youtube.com/watch?v=VlUJcInKe6I"
+slidesURL: "Agile Education.pdf"
 draft: false
 ---
 
@@ -19,5 +20,4 @@ Siostry  <a href="https://www.linkedin.com/in/marta-orbitowska/" target="_blank"
 
 Marta pochodzi ze świata IT, jest Agile Coachem i Scrum Masterem, a Paulina ze świata edukacji, jest nauczycielką i trenerką NVC. Zawodowo połączyło je marzenie o \(r)ewolucji w edukacji.
 
-<a href="Agile Education.pdf" target="_blank">Prezentacja ze spotkania</a></br>
 

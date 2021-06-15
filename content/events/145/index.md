@@ -6,6 +6,7 @@ speakers: "Frederico Figueiredo"
 lang: "en"
 sponsors: ["Aviva", "Sollers"]
 videoURL: "https://www.youtube.com/watch?v=15SRtnnmMvo&feature=youtu.be"
+slidesURL: "https://speakerdeck.com/fredfigueiredo/cultural-change-fight-fire-with-fire"
 draft: false
 ---
 
@@ -15,5 +16,4 @@ Most enterprises fail in their journey towards Agility. There are many reasons, 
  
 Lover of life, communication and interaction, Fred specializes in coaching & mentoring organizations in their journey towards high-performance and excellence. For the past 15+ years, he has guided small to large-scale organizations in the pursuit of Business Agility, through Agile & Lean values, "just-do-it" UX, software craftsmanship and leading by example. 
 
-<a href="https://speakerdeck.com/fredfigueiredo/cultural-change-fight-fire-with-fire" target="_blank">Meeting slides</a>
 

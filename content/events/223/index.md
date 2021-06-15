@@ -6,6 +6,7 @@ speakers: "Piotr Radaj"
 lang: "pl"
 sponsors: ["Reef Technologies"] 
 videoURL: ""
+slidesURL: "Agile Lifestyle.pdf"
 draft: false
 ---
 
@@ -23,4 +24,3 @@ Jako prowadzący nadam ramy dyskusji oraz podzielę się swoimi wnioskami z blis
 <li> współorganizuję spotkania Agile Warsaw, które zrzeszają nieformalną, lokalną społeczność entuzjastów zwinności.
 </ul>
 
-<a href="Agile Lifestyle.pdf" target="_blank">Prezentacja ze spotkania</a>
