@@ -6,6 +6,7 @@ speakers: "Paulina Orbitowska-Fernandez"
 lang: "pl"
 sponsors: ["CodeSprinters", "Slido"]
 videoURL: ""
+slidesURL: "AW231-NVC.pdf"
 draft: false
 ---
 
