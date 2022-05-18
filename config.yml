@@ -91,6 +91,11 @@ params:
     - name: "mBank"
       logo: "img/logo-mbank-color-w300.png"
       url: "https://mbank.pl/"
+
+    - name: "mBank"
+      logo: "img/logo-mbank-color.png"
+      url: "https://mbank.pl/"
+
       #
       #  - name: "Vistula"
       #    logo: "img/logo_vistula.jpg"
