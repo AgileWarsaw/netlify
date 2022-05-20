@@ -191,7 +191,7 @@ params:
             text: LinkedIn
       presentation:
         title: "Coś wokół: \"Za co płacą scrum masterowi?\""
-        description: "tbd <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        description: "Scrum master jest kosztem. A co wnosi do organizacji? Znamy dobrze obowiązki kasjerki, ochroniarza, kelnera czy hydraulika. Wiem za co im płacimy. Podobnie jak za pracę zespołu deweloperskiego czy product ownera.<br> Opowiem, jak do tego podchodzę do w mBanku. I czy rozliczam za przytulanie drzew ;-) <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
     - authors:
         - name: "Maciej Malesa"
