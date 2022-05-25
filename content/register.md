@@ -41,7 +41,7 @@ Specifically:
 
 ## …and finally:
 
-#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/newworkspace-cq73322/shared_invite/zt-15w7np6no-6GJlDiWFBajiJF4Ka0hjmg">here</a>
+#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/abelight2022/shared_invite/zt-19xgnpf0w-8aTHowWff~3R_sSmotadNw">here</a>
 
 
 <h4 style="font-size: 2.2em;"><br>If you Slack is giving you an unhelpful error message:</h4>
