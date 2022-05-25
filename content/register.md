@@ -48,7 +48,8 @@ Specifically:
 
 Unfortunately Slack is really buggy this year and we cannot do anything about it. If the registration link does not work for you, please try:  
 
-  • Joining using a computer, not a phone. Once you are in, the Slack app should work.  
+  • Using <a id="in-your-face" href="https://join.slack.com/t/newworkspace-cq73322/shared_invite/zt-15w7np6no-6GJlDiWFBajiJF4Ka0hjmg">the alternative link</a>.
+  * Joining using a computer, not a phone. Once you are in, the Slack app should work.  
   • If you know someone who joined already, ask them to invite you "from the inside". They can find info on how to do it in the `#official-announcements` channel.  
   • If you don't know anyone on the inside contact us (organizers) and we will invite you "from the inside". If you do not know any of us, use the email address at the bottom of the [https://agilewarsaw.com/](https://agilewarsaw.com/) web page (sorry for not putting it here directly but email spam is a real problem). 
 
