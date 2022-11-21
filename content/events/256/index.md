@@ -5,7 +5,7 @@ title: "[spotkanie stacjonarne] Zwinność dla dorosłych, czyli jak zastosować
 speakers: "Adam Myszak"
 lang: "pl"
 sponsors: ["QAgile", "PKO BP"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=aHwAvIzw-Sc"
 slidesURL: "AgileWarsaw - TOC v2.pdf"
 draft: false
 ---
