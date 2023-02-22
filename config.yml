@@ -1,8 +1,6 @@
 publishDir: docs
-abelight
 baseurl: "https://abelight.agilewarsaw.com"
 title: "ABE Light 2023"
-
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -146,6 +144,10 @@ params:
         logo: "img/logo_LubLean.png" 
         url: "https://www.meetup.com/LubLean-and-Agile/"
       
+      - name: "Agile Silesia"
+        logo: "img/logo_agile-silesia.png" 
+        url: "https://www.agilesilesia.pl/"
+      
       # - name: "Agile Poznań"
       #   logo: "img/logo_ap_margines.png" 
       #   url: "https://agilepoznan.org/"
@@ -158,14 +160,17 @@ params:
       #   logo: "img/logo-ale-krakow.png" 
       #   url: "https://www.alekrakow.com/"
 
-      #- name: "Kanban przy kawie"
-      #logo: "img/logo_kanban_przy_kawie.png" 
-      #url: "https://kanbanprzykawie.pl/"
-      
+      - name: "Kanban przy kawie"
+        logo: "img/logo_kanban_przy_kawie.png" 
+        url: "https://kanbanprzykawie.pl/"
+        
       - name: "Agile Silesia"
         logo: "img/logo_AgileSilesia.png" 
         url: "https://www.agilesilesia.pl/"
 
+      - name: "Agile Wrocław"
+        logo: "img/logo-agile-wroclaw.png" 
+        url: "https://www.meetup.com/pl-PL/agilewroclaw/"
 
   Orgs:
     - name: "Ewa Koprowska"
@@ -195,14 +200,14 @@ params:
 
     - authors:
         - name: "Angel Diaz-Maroto"
-          #photo: "img/"
-          #bio: ""
+          photo: "img/Angel-Diaz-Maroto.jpg"
+          bio: "Certified Scrum Trainer (CST), Certified Enterprise Coach (CEC) & Certified Agile Leadership Educator (CALE) by the Scrum Alliance — Professional Certified Coach by the International Coach Federation with more than 15 years’ experience."
           #link:
             #href: ""
             #text: www
       presentation:
-        title: ""
-        description: "<img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+        title: "TBA"
+        description: "Soon… <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
 
     - authors:
         - name: "Jaga Biernacka"
@@ -212,8 +217,8 @@ params:
             #href: ""
             #text: LinkedIn
       presentation:
-        title: ""
-        description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        title: "TBA"
+        description: "Niedługo… <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
     - authors:
         - name: "Adrian Janik"
@@ -227,8 +232,22 @@ Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko klucz
             #href: ""
             #text: LinkedIn
       presentation:
-        title: "Czy w zespołach dostrzegamy to co ważne? O znakach rozpoznania i budowaniu relacji"
+
+        title: "TBA"
+        description: "Niedługo… <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
+    #- authors:
+        #- name: "Łukasz Kosacki"
+          #photo: "img/l-kosacki.jpg"
+          #bio: "Łukasz is lifelong learner. Thanks to his teaching experience, he knows that active learning is the competence of the future. He has been involved with agile in its broadest sense since 2016. Co-organizer of Scrumvival, co-creator of several training courses for Scrum Masters. Supports the organization at every level helping organizations focus on the outcoms of the products they produce and more. He tries to be adaptive not to 'do adaptive' and to simplify our complex word."
+          #link:
+            #href: ""
+            #text: LinkedIn
+      #presentation:
+        #title: "Let's Give Agile Back to Developers"
+        #description: "Who needs agile? Will our products manage without agile?  Are our developers and our companies ready to take responsibility for agile?  Who started agile and why it was created? Why managers are comfortable with agile?  How to give responsibility for agile software development to development teams?  When we are more likely to make our product a product that matters, products that changes the world? <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
         description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
 
     - name: "Parallel Workshops"
       #time: "14h15"
@@ -245,6 +264,46 @@ Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko klucz
 <li>• What are rules of Kanban, if any?</li>
 <li>• How are Kanban teams improving their services and ways of work?</li>
 </ul>
+      <br><br>
+
+      <strong>Bogumiła Kwiatkowska-Koterba<br>
+Współpraca popłaca - o efektywnej współpracy Scrum Mastera i Product Ownera</strong>
+<img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+W ramach warsztatu skupimy się na obszarze działania SM z PO.  
+Porozmawiamy o dobrych praktykach we współpracy SM i PO oraz odpowiemy sobie na poniższe pytania: <br>
+      <ul style=\"padding-left: 0.5em;\">
+<li>• Jakie mogą być wzajemne oczekiwania między SM i PO?</li>
+<li>• W czym SM realnie może pomóc PO i w jakim zakresie?</li>
+<li>• W czym zazwyczaj PO widzi największą korzyść ze współpracy z SM?</li>
+<li>• Jakie narzędzia w kontekście efektywności pracy może zaproponować SM - Product Ownerowi?</li>
+<li>• Jak pracować z POs w zależności od ich poziomu zaawansowania w roli? </li>
+<li>• Czego jako PO mogę oczekiwać od SM?</li>
+<li>• Czego jako SM potrzebuje, aby osiągnąć satysfakcjonującą współpracę?</li>
+</ul>
+Rezultatem warsztatu będzie lista działań, praktyk i narzędzi, które Scrum Master i Product Owner mogą wykorzystać w codziennej pracy. <br>
+Warsztat będzie idealny dla PO, którzy zastanawiają się w czym SM może ich na co dzień lepiej wspierać, dla SM, którzy zastanawiają się jak realnie wspierać POA oraz dla Managerów, którzy chcą pomagać zarówno SM jak i PO w efektywnej kooperacji.
+
+<br><br>
+
+     <strong>Noela Zdunek<br>
+Scrum a wartości—w poszukiwaniu sensu</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+
+Jest to warsztat dość intymny–będziemy wszak rozmawiać o wartościach.
+Po co zostały umieszczone w Scrum Guide i… dlaczego akurat te? Jak często rozmawiasz o nich z zespołem? Jak rozumiesz szacunek? Gdzie na co dzień towarzyszy Ci odwaga? Co nam daje skupienie, otwartość, zaangażowanie? Spróbujemy odpowiedzieć na trudne pytania, podzielimy się doświadczeniami, spostrzeżeniami i interpretacjami.
+Rezultatem warsztatu będzie cel indywidualny oparty na wybranej wartości i–mam nadzieję–powracająca refleksja o tym, jakie miejsce wartości scrumowe zajmują w Twojej codziennej pracy.<br>
+Warsztat przeznaczony dla Scrum Masterów na każdym etapie rozwoju.
+
+<br><br>
+
+     <strong>Krzysztof Niewiński<br>
+Systems Thinking Basics</strong> <br>
+TBA <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+
+      <br><br>
+
+    <strong>Karolina Karbarz, Justyna Wykowska <br>
+    TBA </strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+
       <br><br>
 
     "
@@ -275,14 +334,58 @@ Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko klucz
       workshop: true
     
     - authors:
-        - name: "Bogumiła Kwiatkowska"
-          photo: "img/"
-          bio: ""
-          #link:
-              #href: ""
-              #text: ""
+        - name: "Bogumiła Kwiatkowska-Koterba"
+          photo: "img/kwiatkowska.jpg"
+          bio: "Product Ownerka w Żabka Future (sercem cały czas Scrum Masterka :)<br>
+Od 2 lat w roli Product Ownera, a od ponad roku zajmuje się kluczowym procesem w firmie tj. zamawianie towaru do sklepu. Na co dzień współpracuje z Franczyzobiorcami, biznesem i zespołem deweloperskim, konfrontując zbierane wymagania od różnych interesariuszy z danymi. Swoje wcześniejsze ponad 5 letnie doświadczenie jako Scrum Master / Agile Coach nadal wykorzystuje kiedy tylko ma do tego sposobność.
+Nadal ciągnie ją do polepszania procesów, a poza tym uwielbia dzielić się wiedzą i polepszać efektywność w zespołach oraz organizacji.
+Swój umysł odrywa od codzienności w tańcu towarzyskim ze swoim mężem.
+A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
+          link:
+              href: "https://www.linkedin.com/in/kwiatkowskakoterba/"
+              text: "LinkedIn"
       workshop: true
     
+    - authors:
+        - name: "Krzysztof Niewiński"
+          photo: "img/Krzysztof_Niewinski_2022.png"
+          bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 15 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania — od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 7 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę."
+          link:
+              #href: ""
+              #text: ""
+          # presentation: "title"
+          # description: "desc"
+      workshop: true
+
+
+    - authors:
+        - name: "Karolina Karbarz"
+          photo: "img/Karolina_Karbarz_2022.jpeg"
+          bio: "Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań. Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów."
+          link:
+              #href: ""
+              #text: ""
+          # presentation: "title"
+          # description: "desc"
+        - name: "Justyna Wykowska"
+          photo: "img/JWykowska_2022.png"
+          bio: "Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant."
+          link:
+              #href: ""
+              #text: ""
+          # presentation: "title"
+          # description: "desc"
+      workshop: true
+
+    - authors:
+        - name: "Noela Zdunek"
+          photo: "img/noela-zdunek.jpg"
+          bio: "Scrum Masterką oficjalnie jest od dwóch lat, choć w oparciu o filary i wartości scrumowe działa intuicyjnie całe życie. Obecnie wspiera zwinną transformację w BNP Paribas na wszystkich szczeblach organizacji. Równie ważny jest dla niej deweloper, menedżer, jak i prezes zarządu – wierzy, że dzięki współpracy organizacje mogą osiągnąć najwięcej. Skupia się na budowaniu bezpiecznej atmosfery do pracy, eksperymentowania i ciągłego doskonalenia. Jako mentorka (m. in. w ScrumDzielni) działa na rzecz społeczności Agile i propagowania dobrych wzorców. Prywatnie – psia mama dwóch kundelków, fanka pizzy, piwa i playstation."
+          link:
+              href: "https://www.linkedin.com/in/noela-zdunek"
+              text: "LinkedIn"
+      workshop: true
+
     - authors:
         - name: "Łukasz Adamski"
           photo: "img/"
@@ -292,15 +395,6 @@ Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko klucz
               #text: ""
       workshop: true
     
-    - authors:
-        - name: "Noela Zdunek"
-          photo: "img/"
-          bio: ""
-          #link:
-              #href: ""
-              #text: ""
-      workshop: true
-
 
     #####################
     ##     TEMPLATE    ##

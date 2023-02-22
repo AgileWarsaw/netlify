@@ -1,5 +1,5 @@
 # ABELight
-Strona www konferencji ABE Light 2018, 2019, 2020
+Strona www konferencji ABE Light
 
 # Jak wprowadzić zmiany?
 
