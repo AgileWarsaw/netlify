@@ -424,16 +424,31 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Adrian Janik"
-  photo = ""
-  bio = ""
+  photo = "img/janik.jpg"
+  bio = """
+  Od 15 lat zajmuję się szkoleniem, rozwijaniem kompetencji miękkich. Od 5 lat odkrywam świat zwinnych zespołów i przynoszę do niego narzędzia i rozwiązania wzmacniające zespołowość, samoorganizację oraz współodpowiedzialność.  Wspieram organizacje w planowaniu i skutecznym wdrażaniu zmian, dostarczam wiedzę i umiejętności związane z kompetencjami osobistymi, komunikacją oraz zespołowością. Pomagam liderom i członkom zespołów skutecznie pełnić ich role, a przez to budować samodzielne i odpowiedzialne teamy. <br>
+  Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko kluczem do sukcesu zespołów i organizacji, ale też źródłem dobrego i pełnego życia. <br>
+  Prywatnie podróżuję i biegam, a później odpoczywam z książką w ręku.
+  """
     # [params.Schedule.authors.link]
     # href = ""
     # text = ""
 
   [[params.Schedule.authors]]
   name = "Mateusz Hauk"
-  photo = ""
-  bio = ""
+  photo = "img/hauk.jpg"
+  bio = """
+  Trener biznesu od 2005 roku. Certyfikowany Scrum Master.  <br>
+  W działaniach rozwojowych propaguje ideę „Zarządzania z ludzką twarzą”. Wspiera zespoły samoorganizujące (agile). Współautor wielu dedykowanych programów rozwojowych dla liderów i menedżerów, koordynator metodologiczny i trener wiodący akademii menedżerskich. Współautor koncepcji i koordynator merytoryczny projektów związanych z tworzeniem platform e-learningowych i e-coachingowych <br>
+  Realizuje szkolenia z zakresu: <br>
+  • Umiejętności szefowskich i menedżerskich <br>
+  • Komunikacji i asertywności <br>
+  • Budowania i usprawniania pracy zespołów <br>
+  • Facylitacji i moderacji <br>
+  • Budowania i usprawniania relacji w miejscu pracy <br>
+  • Skuteczności osobistej (kapitał psychologiczny i społeczny) <br>
+  • Wdrażania i wzmacniania zmian <br>
+  • Wykorzystywania agile w biznesie """
     # [params.Schedule.authors.link]
     # href = ""
     # text = ""
