@@ -6,6 +6,7 @@ speakers: "Patrycja Feldman, Hanna Serwatka"
 lang: "pl"
 sponsors: ["XTB"]
 videoURL: ""
+slidesURL: "AgileWarsaw - materiały wypracowane na spotkaniu.pdf"
 draft: false
 ---
 
