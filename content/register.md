@@ -1,8 +1,8 @@
 ---
 title: "Registration"
-date: 2022-03-23T07:51:48+01:00
+date: 2025-02-06T07:51:48+01:00
 draft: false
-description: "Registration for ABELight 2022"
+description: "Registration for ABELight 2025"
 ---
 
 ## Rejestracja
@@ -36,7 +36,7 @@ Konkretnie:
 
 ## ...i wreszcie:
 
-#### Zapisz się <a id="in-your-face" href="https://join.slack.com/t/abelight2024/shared_invite/zt-2dwmfhjjq-z6SH5efWMKy4bef81gO3qw">tutaj</a>
+#### Zapisz się <a id="in-your-face" href="https://join.slack.com/t/abelight2025/shared_invite/zt-2zug4q8jp-pD2ql9T3LEMLCDmEgJ8lcw">tutaj</a>
 
 
 <h4 style="font-size: 2.2em;"><br> Jeśli Slack wyświetla Ci komunikat o błędzie:</h4>

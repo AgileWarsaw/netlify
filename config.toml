@@ -1,14 +1,14 @@
 publishDir = "docs"
 baseurl = 'https://abelight.agilewarsaw.com'
-title = "ABE Light 2024"
+title = "ABE Light 2025"
 canonifyurls = true
 theme = "hugo-conference"
 
 [params]
-Name = "ABE Light 2024"
-Description = "AgileByExample Light 2024"
-Date = "10 Marca (Niedziela)"
-startDate = "2024-03-10T13:45"
+Name = "ABE Light 2025"
+Description = "AgileByExample Light 2025"
+Date = "6 Kwietnia (Niedziela)"
+startDate = "2025-04-06T13:45"
 Venue = "Akademia Leona Koźmińskiego"
 Address = "ul. Jagiellońska 57/59"
 City = "Warsaw"
@@ -31,9 +31,9 @@ Sections = [
 #   Link do rejestracji
 ##########################
 
-#[params.CallToAction]
-#text = "Zarejestruj się (gratis)"
-# link = "register"
+[params.CallToAction]
+text = "Zarejestruj się (gratis)"
+link = "register"
 
 
 ##########################
@@ -101,20 +101,14 @@ url = 'https://agilewarsaw.com/events/252/'
 name = "2023"
 url = 'https://agilewarsaw.com/events/267/'
 
+[[params.Previous]]
+name = "2024"
+url = 'https://agilewarsaw.com/events/292/'
+
 
 ####################################
 #  Sponsorzy
 ####################################
-
-[[params.Sponsors]]
-name = "DXC Technology"
-logo = "img/logo-DXC.png"
-url = 'https://dxc.com/pl/en'
-
-[[params.Sponsors]]
-name = "ProCognita"
-logo = "img/logo_procognita.png"
-url = 'https://procognita.pl/'
 
 [[params.Sponsors]]
 name = "Akademia Leona Koźmińskiego"
@@ -140,20 +134,20 @@ url = 'https://nextgen.pm/'
 #  Media
 ####################################
 
-[[params.Media]]
-name = "Agile Polska"
-logo = "img/logo_APL.png"
-url = "http://agilepolska.pl/"
+# [[params.Media]]
+# name = "Agile Polska"
+# logo = "img/logo_APL.png"
+# url = "http://agilepolska.pl/"
 
-[[params.Media]]
-name = "Kanban przy kawie"
-logo = "img/logo_kanban_przy_kawie.png"
-url = 'https://kanbanprzykawie.pl/'
+# [[params.Media]]
+# name = "Kanban przy kawie"
+# logo = "img/logo_kanban_przy_kawie.png"
+# url = 'https://kanbanprzykawie.pl/'
 
-[[params.Media]]
-name = "Agile 247"
-logo = "img/logo_a247.jpg"
-url = "http://www.agile247.pl/"
+# [[params.Media]]
+# name = "Agile 247"
+# logo = "img/logo_a247.jpg"
+# url = "http://www.agile247.pl/"
 
 # [[params.Media]]
 # name = "Agile 4U"
@@ -165,40 +159,40 @@ url = "http://www.agile247.pl/"
 # logo = "img/logo_LubLean.png"
 # url = 'https://www.meetup.com/LubLean-and-Agile/'
 
-[[params.Media]]
-name = "Agile Wrocław"
-logo = "img/logo-agile-wroclaw.png"
-url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
+# [[params.Media]]
+# name = "Agile Wrocław"
+# logo = "img/logo-agile-wroclaw.png"
+# url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
 
-[[params.Media]]
-name = "Agile Poznań"
-logo = "img/logo_agile_poznan.png"
-url = 'https://www.linkedin.com/groups/4406793'
+# [[params.Media]]
+# name = "Agile Poznań"
+# logo = "img/logo_agile_poznan.png"
+# url = 'https://www.linkedin.com/groups/4406793'
 
-[[params.Media]]
-name = "Agile 3M"
-logo = "img/logo_agile3m.png"
-url = 'https://www.linkedin.com/company/agile3m'
+# [params.Media]]
+# ame = "Agile 3M"
+# ogo = "img/logo_agile3m.png"
+# rl = 'https://www.linkedin.com/company/agile3m'
 
-[[params.Media]]
-name = "Agile Silesia"
-logo = "img/logo_agile-silesia.png"
-url = 'https://www.agilesilesia.pl/'
+# [params.Media]]
+# ame = "Agile Silesia"
+# ogo = "img/logo_agile-silesia.png"
+# rl = 'https://www.agilesilesia.pl/'
 
-[[params.Media]]
-name = "ALE Kraków"
-logo = "img/logo-ale-krakow.png"
-url = 'https://www.alekrakow.com/'
+# [params.Media]]
+# ame = "ALE Kraków"
+# ogo = "img/logo-ale-krakow.png"
+# rl = 'https://www.alekrakow.com/'
 
-[[params.Media]]
-name = "Dare IT"
-logo = 'img/logo_DareIT.png'
-url = 'https://www.dareit.io/'
+# [params.Media]]
+# ame = "Dare IT"
+# ogo = 'img/logo_DareIT.png'
+# rl = 'https://www.dareit.io/'
 
-[[params.Media]]
-name = "Zwinna Łódź"
-logo = 'img/logo_zwinna_lodz.svg'
-url = 'https://www.meetup.com/Zwinna-Lodz/'
+# [params.Media]]
+# ame = "Zwinna Łódź"
+# ogo = 'img/logo_zwinna_lodz.svg'
+# rl = 'https://www.meetup.com/Zwinna-Lodz/'
 
 ####################################
 #  Organizatorzy
@@ -212,25 +206,25 @@ img = "img/org_przybyszewska_2.svg"
 name = "Ewelina Startek"
 img = "img/org_startek_2.svg"
 
-[[params.Orgs]]
-name = "Ewa Koprowska"
-img = "img/org_koprowska_2.svg"
+# [params.Orgs]]
+# ame = "Ewa Koprowska"
+# mg = "img/org_koprowska_2.svg"
 
 [[params.Orgs]]
 name = "Piotr Radaj"
 img = "img/org_radaj_2.svg"
 
-[[params.Orgs]]
-name = "Łukasz Szóstek"
-img = "img/org_szostek_2.svg"
-
-[[params.Orgs]]
-name = "Katarzyna Prokopiuk"
-img = "img/org_prokopiuk_2.svg"
+# [params.Orgs]]
+# ame = "Katarzyna Prokopiuk"
+# mg = "img/org_prokopiuk_2.svg"
 
 [[params.Orgs]]
 name = "Tomek Słowikowski"
 img = "img/org_slowikowski_2.svg"
+
+[[params.Orgs]]
+name = "Łukasz Szóstek"
+img = "img/org_szostek_2.svg"
 
 
 ####################################
@@ -243,80 +237,47 @@ img = "img/org_slowikowski_2.svg"
 
 [[params.Schedule]]
 name = "Zapisy na warsztaty"
-time = "13:00"
+time = "XX:XX"
 remark = 'Warto być na czas! Zapisy będą na miejscu i najciekawsze warsztaty zapełnią się najszybciej.'
 
 [[params.Schedule]]
 name = "Otwarcie konferencji"
-time = "13:45"
+time = "XX:XX"
 remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
+#------------------------
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "Tomasz Wykowski"
-    photo = "img/TWykowski_2022.png"
-    bio = "Od ponad dwóch dekad uczestniczę w tworzeniu produktów software'owych, a od ponad piętnastu lat dzielę się swoją wiedzą poprzez szkolenia i konsulting. Jestem jedynym polskim Certified Scrum Trainer, CST akredytowanym przez Scrum Alliance oraz jednym z dwóch polskich Certified LeSS Coach. W przerwach pomiędzy pracą z liderami różnych firm piszę artykuły i nagrywam podcasty, które znajdziesz na stronie ProCognity. Jestem autorem książki \"Biznes Odczarowany. Scrum: jak osiągać cele, gdy wszystko się zmienia?\", w której opowiadam jak uniknąć iluzji nierealnych planów i stworzyć zwinną firmę."
+    name = "Aga Szóstek"
+    photo = ""
+    bio = ""
 
       [params.Schedule.authors.link]
-        href = 'https://www.linkedin.com/in/wykowski/'
-        text = 'LinkedIn'
+        href = ''
+        text = ''
 
     [params.Schedule.presentation]
-      title = 'Rozmówki Managerskie, czyli jak zmieniać firmę i nie zostać zwolnionym'
-      description ="""
-      "Gdyby tylko mój manager tu był…” to zdanie, które często słyszę na moich szkoleniach. Zdecydowanie łatwiej zmienia się organizację, gdy jej kierownictwo wspiera prowadzoną transformację. Jednak przekonanie managerów często graniczy z cudem. Z drugiej strony prawdziwi liderzy nawet jeżeli nie mają formalnej władzy w organizacji potrafią wpływać na osoby decyzyjne.<br>
-      Porozmawiajmy więc jak się przygotować do takich rozmów i jak je prowadzić. Chcę Ci pokazać konkretne narzędzia, których używam w mojej pracy z klientami. Dzięki nim inaczej poprowadzisz następne spotkanie ze swoim managerem. Przy odrobinie szczęścia, zobaczysz rezultaty, które jeszcze niedawno nikomu w firmie się nie śniły.
-      """
+      title = 'Tytuł TBD'
+      description = """ Opis TBD """
+
 #------------------------
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "Kuba Szczepanik"
-    photo = "img/szczepanik.jpg"
-    bio = """
-    Pomagam przejść przez zmianę firmom, które chcą wykorzystać potencjał tkwiący w zwinności.<br>
-     Jestem konsultantem, mentorem i trenerem, specjalizującym się w temacie zwinnych transformacji dużych organizacji. Wspieram bezpośrednio zespoły projektowe rozwijające swoje produkty i pomagam wyjść z podejściem zwinnym do kręgów „biznesowych” w firmach. <br>
-     Moją misją jest propagowanie porządnej zwinności w zespołach i firmach oraz przeciwstawienie się płytkim zmianom oraz stosowania Agile-In-The-Name-Only. <br>
-     Jestem współautorem portalu <a href="https://agile247.pl">agile247.pl</a> i podcastu „Porządny Agile”, piszę też na swoim blogu kubaszczepanik.pl i szykuję książkę o zwinnych transformacjach – więcej informacji na stronie <a href="https://zwinneorganizacje.pl">zwinneorganizacje.pl</a>.
-    """
+    name = "Kate Hobler"
+    photo = ""
+    bio = ""
 
-    [params.Schedule.authors.link]
-      href = 'https://www.kubaszczepanik.pl/'
-      text = "kubaszczepanik.pl"
+      [params.Schedule.authors.link]
+        href = ''
+        text = ''
 
     [params.Schedule.presentation]
-      title = 'Jak Scrum Master może wesprzeć efektywność zespołu?'
-      description ="""
-      Efektywność zespołów to temat bardzo istotny biznesowo i jednocześnie traktowany dość po macoszemu w wielu firmach. Nie jest to łatwe – rodzi pytania jak ją mierzyć, kto ma na nią wpływ i jak ją poprawić. <br>
-      Na bazie doświadczeń w pracy z organizacjami przedstawię moja propozycję planu działania dla Scrum Mastera, który chce przejąć inicjatywę i uruchomić działania związane z podwyższeniem efektywności. Pokażę też model do auto-refleksji dla Scrum Mastera – jakie kompetencje są potrzebne, żeby realnie wpłynąć na omawiany temat.
-      """
+      title = 'Tytuł TBD'
+      description = """ Opis TBD """
+
 #------------------------
-
-[[params.Schedule]]
-    [[params.Schedule.authors]]
-    name = "Agnieszka Cieślawska"
-    photo = "img/cieslawska.jpg"
-    bio = """
-    Ponad 6 lat temu Agile skradł moje serce. Od tamtej pory stale poszerzam swoją wiedzę w tym obszarze, zdobywając kolejne poziomy wtajemniczenia w Scrumie, Kanbanie i XP, a także eksplorując sposoby, które pozwalają budować wybitne zespoły, efektywne organizacje i kreować niesamowite produkty.<br>
-Na co dzień pracuję jako Agile Coach w startupie, dbając o zwinność, przewidywalność i doskonałość we wszystkich obszarach działalności, nie tylko w zespołach inżynierskich. Chętnie dzielę się wiedzą poprzez wystąpienia na konferencjach, prowadzenie warsztatów i mentoring.<br>
-W wolnym czasie lubię czytać przerażające thrillery, kosić trawę i planować podróże.
-    """
-
-      # [params.Schedule.authors.link]
-      #   href = ""
-      #   text = ""
-
-    [params.Schedule.presentation]
-      title = 'Scrum Master nie jest potrzebny! Ale jego supermoce zostają!'
-      description ='Wszyscy znamy Scrum Mastera: strażnika wartości Agile, coacha zespołu, eksperta od "rytuałów". Ale czy w dzisiejszym, szybko zmieniającym się świecie, wystarczy pilnować retrospektyw i sprintów? Obawiam się że nie!<br>
-Opowiem Wam o swojej drodze – o wzlotach i upadkach, o wyzwaniach i odkryciach.
- Ja zawsze byłam ciekawa jak to jest w innych firmach, więc odkryję przed Wami trochę mojego obecnego świata.<br>
-Podzielę się:<br>
-• jak zaczęłam robić to co ważne,<br>
-• jak naświetlam, że czas na zmiany,<br>
-• jak i z kim rozmawiam.<br>
-A na koniec trochę o tym, dlaczego uważam, że Scrum Master w tradycyjnym rozumieniu nie jest już potrzebny.'
 
 ####################################
 # Warsztaty
@@ -330,130 +291,68 @@ A na koniec trochę o tym, dlaczego uważam, że Scrum Master w tradycyjnym rozu
 name = "Warsztaty"
 remark = """
 
-Wszystkie warsztaty będą się toczyły jednocześnie / równolegle czyli możesz dołączyć tylko do jednego z nich.
+ Wszystkie warsztaty będą się toczyły jednocześnie / równolegle czyli możesz dołączyć tylko do jednego z nich.
 
 Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
 
 <br><br>
 
-<strong>Agata Kabat <br> 
-Mózg w coachingu, czyli praktyczna opowieść o procesie zmiany</strong>
+<strong>Justyna (Kęsik) Rędzikowska
+<br> 
+Lider(ka) w Świecie Liczb: Jak Komunikować Metryki, by Budować Zaangażowanie
 <br>
-Chciałabym Was zaprosić do odkrycia klasycznego coachingu (zgodnego z definicją ICF) na nowo, tym razem z perspektywy naukowej dotyczącej funkcjonowania ludzkiego mózgu w kontekście procesu zmiany i relacji międzyludzkich. Będzie to okazja m.in. do przyjrzenia się źródłom potencjalnego oporu, którego nierzadko doświadczamy jako agenci zmiany we współpracy z zespołami, jednostkami czy organizacjami. Co więcej, wspólnie dowiemy się jak pracować z takimi wyzwaniami wykorzystując podstawową strukturę rozmowy coachingowej oraz model SCARF w ćwiczeniach. <br>
-Dodatkowy bonus: jeżeli zależy Ci na rozwoju własnych procesów decyzyjnych czy zmianie nawyków, z powodzeniem zastosujesz poznane narzędzia w ramach indywidualnych refleksji. <br>
-Na warsztaty przygotujcie proszę przykład problemu lub dylematu, z którym się mierzycie i chcielibyście się nim podzielić w grupie. Wykorzystamy je w praktyce. Nasze kory przedczołowe na pewno się ucieszą :) 
-
-
-<br><br>
-
-<strong>Tomek Serafin i Jakub Dobosz<br>
-Symulacja Scruma: obraz czy 1000 słów?
-</strong><br>
-
-Z przewodnika po Scrumie: Scrum to "uproszczone ramy postępowania, które pomagają […] wytwarzać wartość poprzez adaptacyjne rozwiązywanie złożonych problemów". <br>
-Czy przewodnik po Scrumie jest tak prosty jak to możliwe? Jak dobrze rozumiemy podstawowe elementy metody i do jakiego stopnia nasze rozumienie jest zgodne z rozumieniem innych? Czy potrafimy wyjaśnić Scruma innym nie używając trudnych słów? <br>
-Na te i inne pytania odpowiemy sobie w trakcie warsztatu, w trakcie którego będziemy wytwarzać wartość (zrozumienie Scruma) przez adaptacyjne rozwiązywanie złożonego problemu (jak to zrobić dobrze?) - wyjaśnijmy Scruma pracując Scrumem!
-
-
-<br><br>
-
-
-<strong>Tomek Wykowski<br>
-Model SCARF do wprowadzania zmiany</strong><br>
-
-Jak poszła Twoja ostatnia rozmowa z managerem? Jeżeli udało Ci się osiągnąć wszystko, to ten warsztat nie jest dla Ciebie. Jeżeli jednak managerowie reagują na Twoje propozycje defensywnie, a może nawet ofensywnie, to warto zrozumieć co nimi kieruje.<br>
-Na tym warsztacie popatrzymy na model SCARF zaproponowany przez Davida Rocka. Porozmawiamy o tym jak nasz mózg reaguje na wydarzenia socjalne i jak możesz wykorzystać tą wiedzę w Twojej następnej rozmowie. Oczywiście wypróbujemy nową wiedzę w praktyce, więc przygotujemy i przeprowadzimy symulacje trudnego spotkania z managerem, który nie do końca wspiera nasz pomysł.
-
-
-<br><br>
-
-
-<strong>Justyna Wykowska i Karolina Karbarz<br>
-Czy wiesz, że produkt też dorasta?</strong><br>
-
-Czy wiesz, że produkty również przechodzą swój własny cykl życia? Jedne rozwijają się powoli, inne szybko, ale kluczowe jest umiejętne dostosowanie strategii rozwoju do danego etapu. Zapraszamy Cię serdecznie na nasz warsztat, gdzie zgłębimy tajniki cyklu życia produktu.<br>
-Na tym warsztacie odkryjesz:<br>
-• Jak poznać aktualny etap rozwoju Twojego produktu.<br>
-• Jakie funkcje są kluczowe na danym etapie i jak je odpowiednio dobierać.<br>
-• Do jakich klientów kierować produkt, aby maksymalnie wykorzystać potencjał danego momentu.<br>
-• Jakie metryki są przydatne na każdym etapie rozwoju, umożliwiając lepsze zrozumienie postępów i potrzeb.<br>
-Dołącz do nas, aby zdobyć praktyczną wiedzę i umiejętności niezbędne do świadomego kierowania rozwojem produktu. Wspólnie z ekspertami spojrzymy na Twoją ofertę z nowej perspektywy, pomagając maksymalnie wykorzystać potencjał, jaki drzemie w Twoim produkcie.
-
-
-<br><br>
-
-<strong>Magda Gałaj i Marcin Gałaj<br>
-Asertywność - umiejętność stawiania granic
-</strong><br>
-
-Asertywność to kluczowa umiejętność w dzisiejszym świecie biznesu i relacji międzyludzkich. Czy zdarza Ci się przekraczać swoje granice, aby spełnić wymagania innych? Czy czujesz się niekomfortowo, gdy masz powiedzieć "nie" lub wyrazić swoje niezadowolenie? <br>
-Jeśli tak, to ten warsztat jest dla Ciebie! Podczas naszego warsztatu nauczymy Cię, jak wykorzystać asertywność w swojej pracy i życiu osobistym. Dowiesz się, jak jasno wyrażać swoje potrzeby i stawiać granice w sposób skuteczny i szanujący zarówno siebie, jak i innych. <br>
-W trakcie warsztatu nauczysz się technik asertywności, które pomogą Ci:<br>
-• skutecznie wyrażać swoje potrzeby i oczekiwania<br>
-• stawiać granice w sposób, który nie krzywdzi innych<br>
-• budować pozytywne relacje z innymi ludźmi.
-
-
-
-<br><br>
-
-<strong>Jaga Biernacka<br>
-Trening umiejętności psychologicznych DNA-V przydatnych w pracy agenta zmiany</strong><br>
-
-Pewnie każdy z nas spotkał się ze stwierdzeniem, że najważniejszy jest mindset. Jednak kiedy zaczynamy rozmawiać, czym ten mindset jest, odkrywamy, że każdy trochę inaczej go rozumie.<br> 
-W ramach warsztatu pokażę koncepcję “trybów” pracy naszego umysłu, która wydaje się opisywać bazowe umiejętności intrapersonalne (czyli indywidualne, wewnętrzne) osoby pracującej jako agent zmiany. Doświadczymy ich w praktyce w ćwiczeniach indywidualnych i grupowych.
-
-
-<br><br>
-
-<strong>Krzysztof Niewiński<br>
-Retrospektywa Systemowa w Praktyce</strong><br>
-Warsztat jest wstępem do świata Myślenia Systemowego i jego zastosowania do usprawniania na poziomie organizacji.<br>
-Poznasz narzędzia i metodę umożliwiającą głęboką analizę i refleksję aktualnego systemu pracy. Skupimy się na zrozumieniu, jak różne elementy systemu organizacyjnego współdziałają, wpływając na jego ogólne funkcjonowanie, oraz nauczymy, jak znajdować właściwe, choć często nieintuicyjne usprawnienia.
+</strong>
 <br>
-Warsztat jest skierowany do menedżerów, liderów zespołów oraz wszystkich profesjonalistów, którzy chcą poszerzyć swoje kompetencje w zakresie Myślenia Systemowego i jego zastosowania do analizy oraz poprawy funkcjonowania projektów, dużych grup produktowych oraz organizacji.
+Czy chcesz lepiej pracować z metrykami i zaangażować w to cały zespół? Czy chcesz opierać swoją pracę na danych i wnieść znaczący wkład w retrospektywy? Wiesz, jak ważne są metryki, ale zawsze trudno było Ci je efektywnie komunikować z zespołem?
 <br>
-Korzyści z udziału:<br>
-• Zdobycie umiejętności krytycznej analizy i refleksji nad działaniami systemowymi.<br>
-• Nauczenie się, jak identyfikować problemy systemowe i znajdować dla nich efektywne rozwiązania.<br>
-• Rozwój kompetencji w zakresie Myślenia Systemowego, kluczowego dla liderów nowoczesnych organizacji.<br>
-• Wymiana doświadczeń z innymi profesjonalistami.<br>
-Zapraszam do udziału w warsztacie, który zmieni sposób, w jaki patrzysz na wyzwania w swojej organizacji, otwierając drogę do efektywniejszych rozwiązań oraz szczęśliwszych organizacji.
-
+Ten warsztat jest idealny dla Ciebie! :)
 <br><br>
-
-<strong>Joanna Płaskonka<br>
-Ciągłe usprawnianie jako nawyk - wprowadzenie do Agile Kata</strong><br>
-W dzisiejszym dynamicznie zmieniającym się świecie zdolność organizacji do ciągłego usprawniania procesów i praktyk jest kluczowa dla zachowania konkurencyjności i innowacyjności. Scrum, wraz ze swoimi elementami, oferuje możliwości do regularnej inspekcji i adaptacji. Ale co, jeśli czujesz, że Scrum nie jest odpowiedni dla Ciebie? A może w Twoim zespole brakuje poczucia wprowadzania realnych, wartościowych zmian i wydaje się, że kręcicie się w kółko?<br>
-Jedną z przyczyn może być brak efektywnych nawyków organizacyjnych lub zespołowych, a także (a może przede wszystkim) brak nawyku ciągłego usprawniania. W takim przypadku pomocne może okazać się Agile Kata. Dlaczego właśnie Agile Kata i jaki ma związek z nawykami? Odpowiedzi na te pytania uzyskasz podczas warsztatu!<br>
-Ten warsztat jest skierowany do liderów zespołów, menedżerów projektów, Scrum Masterów, Agile Coachów oraz wszystkich osób zainteresowanych wprowadzeniem lub doskonaleniem praktyk ciągłego doskonalenia w swojej organizacji.<br>
-Korzyści z uczestnictwa w warsztacie:<br>
-• Zrozumienie znaczenia i wpływu nawyków na efektywność organizacyjną.<br>
-• Poznanie Agile Kata i sposobów jego zastosowania do kształtowania nawyku ciągłego usprawniania.<br>
-• Rozwój umiejętności niezbędnych do budowania kultury ciągłego doskonalenia.<br>
-Zapraszamy na nasz warsztat, aby wspólnie odkryć, jak ciągłe usprawnianie może stać się integralną częścią DNA Twojej organizacji. Zamiast pytać: Scrum, Kanban, SAFe, LeSS czy Nexus, zastanów się: kiedy rozpoczniesz Agile Kata? :)
+Zaczniemy od określenia celu i miejsca naszych działań w życiu zespołu. Omówimy podstawowe metryki procesowe oraz jak o nich rozmawiać z zespołem w sposób, który buduje zaangażowanie i poczucie bezpieczeństwa.
+ 
+<br><br>
+Podczas warsztatu dowiesz się:
+<ul style=\"padding-left: 0.5em;\">
+<li>• Jak efektywnie komunikować metryki, aby zespół czuł się zaangażowany i bezpieczny.</li>
+<li>• Jak angażować zespół w pracę z danymi, aby wspólnie dążyć do wzrostu, a nie oceniać ludzi.</li>
+<li>• Jak tworzyć kulturę zaufania i otwartości wokół metryk</li>
+</ul>
+<br>
+Zakończymy warsztat analizą rzeczywistych przypadków, najpierw z moich zespołów, a następnie z Twoich, abyś mógł wyjść z gotowymi pomysłami do wdrożenia już następnego dnia.
 
 
 <br><br>
 
+<strong> Staszek Matczak <br> 
+ Jira dla dorosłych - czyli o tym jak można skopać wizualizację pracy i o tym jak można ją naprawić
+ <br>
+</strong>
+<br>
+Mamy interesującą sytuację. Z jednej strony jednym z filarów Scruma jest przejrzystość: ,,praca musi być widoczna dla osób ją wykonujących, jak również dla osób, na rzecz których praca ta jest wykonywana''. A z drugiej strony narzędzia, które służą do wizualizacji pracy - takie jak na przykład Jira - są bardzo często przedmiotem żartów, memów i heheszków.
+<br><br>
+Podczas warsztatu spróbujemy znaleźć odpowiedzi na pytania:
+<ul style=\"padding-left: 0.5em;\">
+<li>• Po co w ogóle stosujemy narzędzia do planowania i monitorowania pracy? </li>
+<li>• Jakie są potrzeby osób które wprowadzają narzędzia oraz osób, które są użytkownikami tych narzędzi? </li>
+<li>• Czy możemy pogodzić potrzeby różnych interesariuszy? </li>
+<li>• Co może kryć się pod niechęcią do używania narzędzi? </li>
+<li>• I czy Jira Admin to nowy Agile Coach?</li>
+<br>
+Zapraszam osoby, które chcą przyjrzeć się nie tylko warstwie narzędzi i procesów, ale chcą spojrzeć głębiej - na osoby, interakcje, potrzeby oraz strategie realizacji tych potrzeb. Sprawdźmy co można zrobić, żeby narzędzia nam pomagały a nie utrudniały pracę!
+<br><br>
+Dla pełnej jasności: nie jestem sponsorowany przez Atlassiana i nie jest to prezentacja sprzedażowa. A po drugie: słowo ,,Jira'' w tytule może być zastąpione przez dowolne inne narzędzie do planowania i zarządzania pracą.
 
-
-<strong>Adrian Janik i Mateusz Hauk<br>
-Jak budować grunt pod dobre rozmowy i unikać wzajemnej niechęci czy negatywnego nastawienia</strong><br>
-Praca z ludźmi nieodłącznie wiąże się z większymi lub mniejszymi trudnościami. Oczywiście niekiedy idzie gładko i miło, czasami zaś w niektórych relacjach pojawiają się „kwasy” i wzajemna niechęć. Czasem zachowania i działania innych (lub brak tych działań) poddajemy interpretacji, przypisując innym różne (nierzadko negatywne) intencje i motywy.<br>
-Podczas warsztatu opowiemy Ci, jak działa (psychologiczny) mechanizm projekcji w relacjach międzyludzkich i do czego może prowadzić. I przede wszystkim stworzymy przestrzeń do tego, abyś mógł_a przyjrzeć się sobie w kontekście projekcji, które generujesz i projekcji, na które narażasz innych. Będziemy też zapraszać Cię do kilku doświadczeń związanych z narzędziami i działaniami, które pozwalają minimalizować ryzyko negatywnych projekcji, a tym samym ryzyko negatywnego nastawienia się do siebie.
 
 
 <br><br>
 
-<strong> Magdalena Kucharska <br>
-Hipoteza bez walidacji to halucynacja, czyli wprowadzenie do Evidence Based Management</strong><br>
 
-Podczas tego warsztatu będziemy mieli okazję poznać różne obszary mierzenia Produktu na podstawie prostej analogii dostarczania pizzy. Dotkniemy konceptu Evidence Based Management i zastanowimy się nad takimi pytaniami:<br>
-• Jak mierzyć i mieć z tego wartość?<br>
-• Jak łączyć miary z celami?<br>
-• Co jest ważne dla naszych stakeholderów?<br>
-Wszystko to  postaramy się potem przenieść na grunt narzędziowy, żebyście mogli wyjść z warsztatu z praktycznym zestawem czynności do mierzenia produktu a nie tylko teorią.
+<strong> Trener <br> 
+ Tytuł warsztatu 
+ <br>
+</strong>
+ Opis warsztatu 2<br>
+ cd...
+ 
 """
 
 #########################
@@ -462,7 +361,7 @@ Wszystko to  postaramy się potem przenieść na grunt narzędziowy, żebyście 
 
 [[params.Schedule]]
   name = "Afterparty!"
-  time = "~19:00"
+  time = "~XX:XX"
 
 
 #---------------------------------------
@@ -473,200 +372,65 @@ Wszystko to  postaramy się potem przenieść na grunt narzędziowy, żebyście 
 [[params.Schedule]]
 workshop = true
 
-
-
-[[params.Schedule]]
-workshop = true
-
+  # multiple authors per workshop are OK
   [[params.Schedule.authors]]
-  name = "Agata Kabat"
-  photo = "img/Agata_Kabat.jpg"
+  name = "Justyna (Kęsik) Rędzikowska"
+  photo = "img/redzikowska.png"
   bio = """
-  Od 8 lat jestem związana z zarządzaniem projektami, wspieram tworzenie produktów oraz usług, a także ulepszam procesy w sektorach: BPO/SSC, consulting, fintech oraz IT. Pracowałam jako Project Managerka, Team Liderka, Scrum Masterka, aktualnie działam w roli Agile Coachki. <br>
-  Dodatkowo, jako coachka w trakcie akredytacji ICF, specjalizuję się w pracy coachingowej z liderami, zespołami oraz Scrum Masterami/Agile Coachami używając m.in. techniki Brain-Based Coaching. <br>
-  W wolnych chwilach ćwiczę boks, praktykuję jogę i uważnie spaceruję po lesie.
+  Specjalizuję się w Ways of Working. Buduję efektywne zespoły, wspierające społeczności, wbijam level up organizacjom. Pracuję z wartościami, ludźmi, danymi i procesami. Uwielbiam się uczyć oraz dzielić wiedzą. 
+  <br>
+  Od 2003 rozwijam się jako liderka, a od 2006 jako trenerka, facylitatorka i mentorka.
+  <br>
+  Lubię zadawać pytania, ogromnie ciekawi mnie świat, człowiek i procesy jakie zachodzą pomiędzy.
+  <br>
+  Aktualnie działam jako Scrum/Kanban Masterka oraz Agile Coachka w Danonie, choć na umowie mi napisano, że jestem Starszym Kierownikiem, a ja ani stara ani panowie pod Żabką nie mówią mi "Kierowniczko" ;)
   """
     [params.Schedule.authors.link]
-      href = 'https://www.linkedin.com/in/agatakabat/'
       text = 'LinkedIn'
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Tomek Serafin"
-  photo = "img/serafin.jpg"
-  bio = """
-Zaczynałem karierę zawodową jako programista, następnie tworzyłem i dostarczałem wartość jako analityk, menadżer projektu, menadżer produktu, lider zespołu, Scrum Master, a nawet Head of HR. <br>
-Obecnie jestem programistą i przywódcą służebnym zespołu Scrumowego. Jednym z moich hobby jest tworzenie oraz prowadzenie warsztatów wzmacniających zrozumienie zwinności. Lubię zrozumienie.
-  """
-  [params.Schedule.authors.link]
-    href = 'https://www.linkedin.com/in/tpserafin/'
-    text = 'LinkedIn'
-
-  [[params.Schedule.authors]]
-  name = "Jakub Dobosz"
-  photo = "img/dobosz.jpg"
-  bio = """
-Cenię synergię zespołu, przejrzystość i skuteczną komunikację. Skupiam się na wartości biznesowej i szukaniu sposobów na jej optymalne dostarczanie. Wierzę, że poprzez ciągłe zwiększanie naszego zrozumienia własnych potrzeb i motywacji jesteśmy w stanie tworzyć wyjątkowe rozwiązania. Jednym z moich celów jest budowanie środowisk, gdzie każdy ma poczucie własności i możliwość wpływania na nie. Praktykuję NVC i zwiększanie swojej uważności.
-  """
-   [params.Schedule.authors.link]
-    href = 'https://www.linkedin.com/in/jakubdobosz/'
-    text = 'LinkedIn'
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Adrian Janik"
-  photo = "img/janik.jpg"
-  bio = """
-  Od 15 lat zajmuję się szkoleniem, rozwijaniem kompetencji miękkich. Od 5 lat odkrywam świat zwinnych zespołów i przynoszę do niego narzędzia i rozwiązania wzmacniające zespołowość, samoorganizację oraz współodpowiedzialność.  Wspieram organizacje w planowaniu i skutecznym wdrażaniu zmian, dostarczam wiedzę i umiejętności związane z kompetencjami osobistymi, komunikacją oraz zespołowością. Pomagam liderom i członkom zespołów skutecznie pełnić ich role, a przez to budować samodzielne i odpowiedzialne teamy. <br>
-  Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko kluczem do sukcesu zespołów i organizacji, ale też źródłem dobrego i pełnego życia. <br>
-  Prywatnie podróżuję i biegam, a później odpoczywam z książką w ręku.
-  """
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
-
-  [[params.Schedule.authors]]
-  name = "Mateusz Hauk"
-  photo = "img/hauk.jpg"
-  bio = """
-  Trener biznesu od 2005 roku. Certyfikowany Scrum Master.  <br>
-  W działaniach rozwojowych propaguje ideę „Zarządzania z ludzką twarzą”. Wspiera zespoły samoorganizujące (agile). Współautor wielu dedykowanych programów rozwojowych dla liderów i menedżerów, koordynator metodologiczny i trener wiodący akademii menedżerskich. Współautor koncepcji i koordynator merytoryczny projektów związanych z tworzeniem platform e-learningowych i e-coachingowych <br>
-  Realizuje szkolenia z zakresu: <br>
-  • Umiejętności szefowskich i menedżerskich <br>
-  • Komunikacji i asertywności <br>
-  • Budowania i usprawniania pracy zespołów <br>
-  • Facylitacji i moderacji <br>
-  • Budowania i usprawniania relacji w miejscu pracy <br>
-  • Skuteczności osobistej (kapitał psychologiczny i społeczny) <br>
-  • Wdrażania i wzmacniania zmian <br>
-  • Wykorzystywania agile w biznesie """
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
-
-#------------------------
+      href = 'https://www.linkedin.com/in/justyna-redzikowska/'
 
 
 [[params.Schedule]]
 workshop = true
 
+  # multiple authors per workshop are OK
   [[params.Schedule.authors]]
-  name = "Justyna Wykowska"
-  photo = "img/JWykowska_2022.png"
+  name = "Staszek Matczak"
+  photo = "img/matczak.jpg"
   bio = """
- Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
-  """
-     [params.Schedule.authors.link]
-     href = 'https://www.linkedin.com/in/justynawykowska'
-     text = 'LinkedIn'
-
-  [[params.Schedule.authors]]
-   name = "Karolina Karbarz"
-   photo = "img/Karolina_Karbarz_2022.jpeg"
-   bio = """
-Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań. Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów.
-   """
-     [params.Schedule.authors.link]
-     href = 'https://www.linkedin.com/in/karolina-karbarz'
-     text = 'LinkedIn'
-
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Magda Gałaj"
-  photo = "img/Galaj-Magda.jpg"
-  bio = """
-Uwielbia pracę z ludźmi, w zgodzie z wartościami, którym jest wierna. Zafascynowana metodami zwinnymi, od 3 lat spełnia się w roli Scrum Mastera. Radość i satysfakcję daje jej możliwość przekazywania wiedzy, wspierania potencjału, który tkwi w ludziach, obserwowania, jak stają się samodzielni i coraz lepsi w tym, co robią. <br>
-Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
+  Po studiach niespodziewanie okazało się, że trzeba zarabiać na życie – więc poszedłem do pracy.
+Zaczynałem od pisania kodu. Ponieważ w miarę dobrze dogadywałem się z ludźmi, zaproponowano
+mi stanowisko kierownika zespołu. Planowałem prace, rozdzielałem zadania, rozwiązywałem
+problemy, rozmawiałem z ludźmi… Jednak coraz bardziej czułem, że w naszym IT coś nie gra.
+Pracowaliśmy wspólnie z utalentowanymi, zaangażowanymi ludźmi, a mimo to ciągle pojawiały się
+opóźnienia, wtopy i porażki.<br> 
+Szukając lepszych sposobów pracy odkryłem najpierw Scruma, a potem kolejne metody i koncepcje
+zwinne – Kanbana, zbiór metod z M3.0, sposoby skalowania… Wciągnęło mnie to bardzo. Przez jakiś
+czas łączyłem rolę menedżera zespołu i Scrum Mastera, potem menedżera zespołu i Product Ownera,
+aż wreszcie porzuciłem zarządzanie i skupiłem się na wdrażaniu metod zwinnych.
+Czego się nauczyłem? Że metody zwinne są proste do zrozumienia, ale trudne do zastosowania. Że
+organizacje brawurowo walczą z problemami, które same sobie stwarzają. Że warto jest
+niestrudzenie zadawać pytanie „dlaczego?”. Że często chęć zmiany jest powierzchowna. Że nie
+zawsze Scrum jest dobrym rozwiązaniem problemu. Że wszystko opiera się na wartościach.
+Jestem ojcem trójki wspaniałych dzieci, współorganizatorem trójmiejskiej społeczności Agile3M.
+Kiedyś pisałem coś na blogu www.trzeciakawa.pl 
   """
     [params.Schedule.authors.link]
-    href = 'https://www.linkedin.com/in/magdalena-galaj'
-    text = 'LinkedIn'
+      text = 'LinkedIn'
+      href = 'https://www.linkedin.com/in/staszekmatczak/'
 
-  [[params.Schedule.authors]]
-  name = "Marcin Gałaj"
-  photo = "img/Galaj-Marcin.jpg"
-  bio = """
-Mąż, ojciec, Scrum Master, Agile Coach. Od 5 lat praktykuje Scruma w branży finansowej. Wieloletni biznesowy background sprawia, że doskonale czuje biznesowy aspekt tego, nad czym pracują zespoły scrumowe, z którymi współpracuje. Głęboko wierzy w sens pracy zespołowej. Na co dzień tworzy ramy, w których zespoły mogą się samoorganizować i efektywnie pracować. <br>
-W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie ;)
-  """
-    [params.Schedule.authors.link]
-    href = 'https://www.linkedin.com/in/marcin-ga%C5%82aj-a3808a1/'
-    text = 'LinkedIn'
 
-#------------------------
 
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Jaga Biernacka-Urban"
-  photo = "img/jaga.jpg"
-  bio = """
-Od lat zajmuję się stykiem pomiędzy zagadnieniami technicznymi i psychologicznymi. Specjalizuję się w budowie kultury inżynierskiej, rozwoju zespołów i tworzeniu uczących się organizacji. Pracuję z całymi organizacjami - zarządami, kadrą zarządczą i zespołami. Prowadzę warsztaty i mentoringi dla liderów, o których więcej informacji znajdziecie na <a href="https://scientificagile.com/">https://scientificagile.com/</a>.<br>
-Jako psycholog zajmuję się nowoczesną psychologią kontekstualną, byłam wiceprezesem Stowarzyszenia Association of Contextual Behavior Science Polska. Prowadzę zajęcia dla studentów z zakresu “Wykorzystanie Acceptance and Commitment Training w biznesie”. Jestem certyfikowanym mediatorem.
-  """
-    [params.Schedule.authors.link]
-      href = 'https://scientificagile.com/o-mnie/'
-      text = "www"
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Krzysztof Niewiński"
-  photo = "img/Krzysztof_Niewinski_2022.png"
-  bio = "Pracuję w branży IT od 2005 roku. Jestem inżynierem i Agile Coachem promującym podejście LeSS (Large-scale Scrum). Od 8 lat zawodowo wspieram tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Doświadczenie zdobywałem m.in. w Grupie Allegro (PayU), w mniejszych firmach, w tym Uncapped, VRenetic, Finevare, HRS, a także w dużych korporacjach, takich jak ERGO, Orange, UPC czy CircleK."
-    # [params.Schedule.authors.link]
-    #   href = ""
-    #   text = ""
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Joanna Płaskonka"
-  photo ='img/Plaskonka.jpg' 
-  bio = """
-  Joanna Płaskonka posiada ponad 13-letnie doświadczenie w różnych branżach, w tym w telekomunikacji, IT, bankowości, robotyce i środowisku akademickim. Jej wykształcenie jest związane z automatyką i robotyką, a w dziedzinie robotyki uzyskała tytuł doktorski z wyróżnieniem.<br>
-Kariera Joanny rozpoczęła się od zarządzania konfiguracją oprogramowania, gdzie odkryła swoją miłość do pomagania ludziom w tworzeniu lepszych procesów i użytecznych produktów. To odkrycie zmieniło kierunek jej kariery. W 2010 roku zaczęła uczyć się o Scrumie i zwinności, co wpłynęło znacznie na jej rozwój i karierę zawodową. W swojej pracy nieustannie poszukuje lekkości, efektywności i skupienia się na wartości.<br>
-Obecnie Joanna nosi wiele kapeluszy jako profesjonalna trenerka Scruma i zwinności, mentorka, oraz konsultantka. Jest pierwszą w Polsce akredytowaną trenerką Agile Kata. Jej nadrzędną misją jest wywieranie pozytywnego wpływu zarówno na jednostki, jak i organizacje, przy jednoczesnym konsekwentnym dążeniu do zapewnienia jak najbardziej wyjątkowych doświadczeń edukacyjnych. Wykorzystuje różne techniki, w tym szkolenia, mentoring, coaching i doradztwo, aby pomóc w realizacji tej misji.
-  """
-    # [params.Schedule.authors.link]
-    #   href = ""
-    #   text = ""
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Magdalena Kucharska"
-  photo ='img/kucharska.jpg' 
-  bio = """
-  Magdalena jest Agile Coachem i Scrum Masterką z ponad 12-letnim doświadczeniem w różnych obszarach biznesowych, takich jak: inżynieria, lotnictwo, bankowość, hazard, MLM. Od 2022 roku jest także Profesjonalną Trenerką Scrum w Scrum.org.<br>
-W swojej pracy skupiam się przede wszystkim na jakości Produktu i zaspokajaniu potrzeb klientów. Pomaga zespołom budować środowisko w pracy w którym czują, że ich praca ma sens i pryznosi realną wartość. Uwielbia prowadzić szkolenia Scrumowe, i robi to z łatwością i humorem, włączając wiele prawdziwych historii, aby pomóc uczniom zrozumieć empiryzm leżący u podstaw Scruma.<br>
-Prywatnie jest maniaczką seriali i podejmowania decyzji opartych na danych.  Dumna mama synka i zapalona czytelniczka polskiej kobiecej fantastyki i science-fiction.
-  """
-    [params.Schedule.authors.link]
-      href = "https://www.mkucharska.com"
-      text = "www"
-
+#[[params.Schedule]]
+#workshop = true
+#
+  ## multiple authors per workshop are OK
+  #[[params.Schedule.authors]]
+  #name = ""
+  #photo = ""
+  #bio = """
+  #"""
+    #[params.Schedule.authors.link]
+      #text = ''
+      #href = ''
 #------------------------
