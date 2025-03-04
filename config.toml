@@ -140,6 +140,12 @@ name = "NextGen.PM"
 logo = "img/logo_NextGenPM.png"
 url = 'https://nextgen.pm/'
 
+[[params.Partners]]
+name = "ProCognita"
+logo = "img/logo_procognita.png"
+url = 'https://procognita.pl/'
+
+
 ####################################
 #  Media
 ####################################
