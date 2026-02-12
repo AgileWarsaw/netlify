@@ -56,4 +56,4 @@ Szkolę liderów, doradzam zespołom i mentoruję produktowców w budowaniu prod
 Nie uczę pustej teorii – dzielę się praktyką sprawdzoną w realnych zespołach i firmach, od startupów po korporacje.
 
 Więcej o mnie znajdziesz na:  
-https://productorg.com/o-mnie, https://www.linkedin.com/in/krzysztofniewinski
+https://productorg.com/pl/about, https://www.linkedin.com/in/krzysztofniewinski
