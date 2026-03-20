@@ -6,7 +6,7 @@ speakers: "Maciej Stępnikowski, Karol Pawlik"
 lang: "pl"
 sponsors: ["PKO"]
 videoURL: ""
-slidesURL: "AgileWarsaw Efektywność i przewidywalność w dużej firmie - system, który działa w skali - materiał v2.pdf"
+slidesURL: ""
 draft: false
 ---
 
