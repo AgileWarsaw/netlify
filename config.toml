@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = 'https://abelight.agilewarsaw.com'
+baseurl = 'https://abelight-2025.agilewarsaw.com'
 title = "ABE Light 2025"
 canonifyurls = true
 theme = "hugo-conference"
