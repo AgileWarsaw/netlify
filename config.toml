@@ -463,7 +463,28 @@ Podczas warsztatu skupimy się m.in. na:
 - tworzeniu warunków do trwałej zmiany organizacyjnej.
 
 To praktyczna sesja pełna przykładów, dyskusji i konkretnych narzędzi, które możesz wykorzystać w swojej organizacji od razu po warsztacie.
-  
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
+
+<strong> Marcin Kępka <br> 
+O rycerzu, który wiedział co robić.  
+<br><br>
+</strong>
+<br>
+Setki szkoleń i certyfikatów ze wszystkich frameworków, jakie kiedykolwiek ktoś wymyślił. Tajemnicze ceremonie, tablice ociekające taskami, a backlog wyrośnięty jak dobre ciasto. A jednak cały czas stoimy w miejscu, a nieliczni mówią już głośno: „Agile is dead."
+Zapraszam Cię na warsztat, na którym nie będziemy naprawiać backlogów ani uczyć się 1456 sposobów estymowania w Gumisiach. Przyjrzymy się za to mechanizmom, które naprawdę sterują zmianą… lub jej brakiem.
+Co wydarzy się na warsztacie? 
+Przywdziejesz zbroję i w unikalnej symulacji sprawdzisz swoją odwagę w starciu z prawdziwymi potworami transformacji 
+Odkryjesz mechanizmy, które kierują Tobą, szlachtą i Królem - szczególnie gdy w okolicy pojawia się Agile
+Poznasz narzędzie, które możesz przyłożyć do miejsca, gdzie naprawdę boli 
+Na jakie łupy możesz liczyć? 
+Osobista mapa, która pokaże Ci, dlaczego sam robisz inaczej niż byś chciał 
+Mapa blokad całego królestwa, abyś wiedział, gdzie zmiana utknęła i dlaczego 
+Konkretny eksperyment do wdrożenia w ciągu dwóch tygodni (zamiast kolejnego planu transformacji)
+Dla kogo? 
+Dla Scrum Masterów, Agile Coachów i Product Ownerów, którzy mają odwagę zdjąć przyłbicę i sprawdzić, co naprawdę dzieje się w głowach szlachty i Króla gdy faktycznie wjeżdża zmiana. Udział we wcześniejszych krucjatach szerzących zwinność i liczne blizny mile widziane. 
+
 """
 #########################
 # Zamknięcie
@@ -549,6 +570,25 @@ CEO Pragmatic Coders, firmy specjalizującej się w ratowaniu, przejmowaniu i ws
   """
      [params.Schedule.authors.link]
      href = 'https://pragmaticcoders.com'
+     text = 'WWW'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+  name = "Marcin Kępka"
+  photo = "img/mkepka.png"
+  bio = """
+Od 25 lat pracuję w obszarze wytwarzania oprogramowania. 10 lat temu przeszedłem na zwinną stronę mocy, a od 5 lat jestem również konsultantem i trenerem w ramach agilefit.org. Okazjonalnie dzielę się wiedzą i doświadczeniem na konferencjach i spotkaniach społeczności Agile.
+
+Jako Scrum Master i Agile Coach towarzyszyłem zespołom i organizacjom w momentach, gdy zmiana była najbardziej potrzebna i najtrudniejsza zarazem. Widziałem transformacje, które wyglądały świetnie na slajdach. Widziałem też takie, które faktycznie zwiększały efektywność i przyjemność z pracy.
+
+Mocno wierzę, że ludzie pracują tak, jak im system pozwala. Dlatego zawsze patrzę na organizację holistycznie - staram się dostrzegać drzewo i jego liście, ale nigdy nie zapominam o korzeniach, których nie widać.
+  """
+     [params.Schedule.authors.link]
+     href = 'https://agilefit.org/'
      text = 'WWW'
 
 # --------- WORKSHOP ------------
