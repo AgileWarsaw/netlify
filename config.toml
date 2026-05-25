@@ -524,6 +524,28 @@ Przyjrzymy się kilku narzędziom i wspólnie zastanowimy się:
  Jak odczytywać ukryte motywacje i obawy biznesu?
  Jak projektować działania komunikacyjne, które pomagają radzić sobie z oporem i domykać decyzje?
 Dowiesz się, jak świadomie zarządzać zaangażowaniem kluczowych osób, by zamiast ciągłej walki o priorytety zyskać przestrzeń do efektywnego wdrażania rozwiązań. Warsztat jest idealny dla Product Ownerów, managerów produktu, Scrum Masterów, Tech Leadów, analityków i wszystkich, którzy na co dzień balansują między wymaganiami biznesu a możliwościami zespołów IT.
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
+
+<strong> Kasia Mydło <br> 
+Kiedy uczestnik odpływa, atakuje albo gada – trening reakcji dla prowadzących spotkania
+<br><br>
+</strong>
+<br>
+To szkolenie jest dla tych, którzy niejedno spotkanie już przeżyli i nadal mają odwagę organizować kolejne. Zastanowimy się, co robić, gdy ktoś jawnie testuje Twoją cierpliwość – ataki, gadulstwo, scrollowanie Instagrama w pierwszym rzędzie… wszystko się zdarza. Nie będziemy moralizować. Będziemy ćwiczyć. W praktyce. Z żywymi ludźmi. Uporządkujemy to, co już robisz intuicyjnie – żeby reagować mniej emocjonalnie, a bardziej świadomie. Trochę też zahaczymy o spotkania online, bo tam też potrafi się dziać.
+
+Zapraszam każdego, komu zdarza się być gospodarzem spotkań, gdzie próbujecie się czegoś nauczyć lub ustalić (w szczególności retrospektywy i wszelkiego rodzaju szkolenia)
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
+
+<strong> Leszek Piątek <br> 
+Zbuduj swojego pierwszego agenta AI w 2 godziny 
+<br><br>
+</strong>
+<br>
+Agent to coś, co zna Twój kontekst, Twoje dane i Twoją robotę. Na warsztacie zaczniemy od live demo, gdzie pokażę jak krok po kroku powstaje agent AI na kilku platformach jednocześnie (Copilot, ChatGPT, Claude). Potem w grupach zbudujecie własnego agenta dopasowanego do Waszej codziennej pracy, pod konkretny problem z pracy PM-a, Scrum Mastera lub Agile Coacha. Wyjdziesz z działającym agentem i wiedzą jak budować kolejne. Laptop z dostępem do internetu obowiązkowy. 
 """
 
 #########################
@@ -631,20 +653,7 @@ Mocno wierzę, że ludzie pracują tak, jak im system pozwala. Dlatego zawsze pa
      href = 'https://agilefit.org/'
      text = 'WWW'
 
-# --------- WORKSHOP ------------
 
-[[params.Schedule]]
-workshop = true
-
-[[params.Schedule.authors]]
-  name = "Justyna Wykowska"
-  photo = "img/JWykowska_2022.png"
-  bio = """
- Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
-  """
-     [params.Schedule.authors.link]
-     href = 'https://www.linkedin.com/in/justynawykowska'
-     text = 'LinkedIn'
 
 
 # --------- WORKSHOP ------------
@@ -662,9 +671,50 @@ workshop = true
         text = 'LinkedIn'
 
 
-        
+# --------- WORKSHOP ------------
 
+[[params.Schedule]]
+workshop = true
 
+[[params.Schedule.authors]]
+  name = "Justyna Wykowska"
+  photo = "img/JWykowska_2022.png"
+  bio = """
+ Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/justynawykowska'
+     text = 'LinkedIn'        
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+  name = "Kasia Mydło"
+  photo = "img/kmydlo.jpg"
+  bio = """
+ Cześć, jestem Kasia. Od kilku lat wspieram zespoły zdeterminowane do zmian w podejściu do pracy. Wcześniej działałam w różnych branżach, więc wiem, że nie ma jednego idealnego rozwiązania. W pracy szczególnie cieszy mnie rozgryzanie jak działają zespoły i znajdowanie sposobów na to, żeby zostawić po sobie organizację lepszą niż ta, do której dołączyłam. Lubię uczyć się i przekazywać wiedzę, a na co dzień doceniam dynamikę i szczerość – czasem aż do bólu. Gdy nie pracuję, odpoczywam z trójką moich kotów, ceniąc sobie każdą dodatkową minutę snu.
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/kmydlo/'
+     text = 'LinkedIn'    
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+  name = "Leszek Piątek"
+  photo = "img/lpiatek.jpg"
+  bio = """
+Product Manager z ponad 10-letnim doświadczeniem w rolach PM, Scrum Master i PMO Lead. Obecnie Product Manager w SoftwareOne, odpowiedzialny za globalną strategię usług Copilot i Digital Workplace. Na co dzień buduje agentów AI, którzy wykonują większość jego pracy PM-a.
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/leszekpiatek/ '
+     text = 'LinkedIn'    
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
