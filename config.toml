@@ -239,6 +239,10 @@ img = "img/org_slowikowski_2.svg"
 #name = "Łukasz Szóstek"
 #img = "img/org_szostek_2.svg"
 
+[[params.Orgs]]
+name = "Jerzy Trybulski"
+img = "img/TEAM-JT.png"
+
 
 ####################################
 #  Rozpiska
