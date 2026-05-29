@@ -147,20 +147,20 @@ url = 'https://nextgen.pm/'
 #  Media
 ####################################
 
-#[[params.Media]]
-#name = "Agile Polska"
-#logo = "img/logo_APL.png"
-#url = "http://agilepolska.pl/"
+[[params.Media]]
+name = "Agile Polska"
+logo = "img/logo_APL.png"
+url = "http://agilepolska.pl/"
 
-#[[params.Media]]
-#name = "Kanban przy kawie"
-#logo = "img/logo_kanban_przy_kawie.png"
-#url = 'https://kanbanprzykawie.pl/'
+[[params.Media]]
+name = "Kanban przy kawie"
+logo = "img/logo_kanban_przy_kawie.png"
+url = 'https://kanbanprzykawie.pl/'
 
-#[[params.Media]]
-#name = "Agile 247"
-#logo = "img/logo_a247.jpg"
-#url = "http://www.agile247.pl/"
+[[params.Media]]
+name = "Agile 247"
+logo = "img/logo_a247.jpg"
+url = "http://www.agile247.pl/"
 
 # [[params.Media]]
 # name = "Agile 4U"
