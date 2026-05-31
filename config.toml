@@ -182,10 +182,10 @@ name = "Agile Poznań"
 logo = "img/logo_agile_poznan.png"
 url = 'https://www.linkedin.com/groups/4406793'
 
-#[[params.Media]]
-#name = "Agile 3M"
-#logo = "img/logo_agile3m.png"
-#url = 'https://www.linkedin.com/company/agile3m'
+[[params.Media]]
+name = "Agile 3M"
+logo = "img/logo_agile3m.png"
+url = 'https://www.linkedin.com/company/agile3m'
 
 [[params.Media]]
 name = "Agile Silesia"
@@ -241,7 +241,7 @@ img = "img/org_slowikowski_2.svg"
 
 [[params.Orgs]]
 name = "Jerzy Trybulski"
-img = "img/TEAM-JT.png"
+img = "img/TEAM-JT.svg"
 
 
 ####################################
