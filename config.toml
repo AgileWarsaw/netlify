@@ -594,7 +594,7 @@ Agent to coś, co zna Twój kontekst, Twoje dane i Twoją robotę. Na warsztacie
 
 [[params.Schedule]]
   name = "Zamknięcie konferencji"
-  time = "~19:00"
+  time = "~19:15"
 
 #########################
 # Impreza 
@@ -602,7 +602,7 @@ Agent to coś, co zna Twój kontekst, Twoje dane i Twoją robotę. Na warsztacie
 
 [[params.Schedule]]
   name = "Afterparty!"
-  time = "~19:15"
+  time = "~19:30"
 
 
 #---------------------------------------
