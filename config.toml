@@ -338,7 +338,7 @@ Również w Polsce..
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "dr Jakub Perlak"
+    name = "Dr Jakub Perlak"
     photo = "img/jperlak.jpeg"
     bio = """ Konsultant organizacyjny, trener i coach, a także okazjonalny wykładowca i prelegent na konferencjach. Rozwijam organizacje poprzez łączenie perspektywy relacyjnej z systemową. Wspieram budowanie zdolności adaptacyjnych, a także transformacyjnych firm, tworząc środowiska nastawione na współpracę, współdzielenie przywództwa i samoorganizację. Pomagam zespołom osiągać efektywność. Napędza mnie różnorodność i kreatywność wyłaniające się przy pracy z grupami oraz liderami.
 Doktor nauk społecznych w dyscyplinie zarządzania i nauk o jakości. Badam przywództwo i samoorganizację, będą przede wszystkim praktykiem posiadającym kilkunastoletnie doświadczenie w branży IT, na różnych stanowiskach, m.in. menedżer, team leader czy Agile Coach. 
@@ -355,6 +355,29 @@ Więcej o mnie: jakubperlak.pl i linkedin https://pl.linkedin.com/in/jakub-perla
 
 #------------------------
 
+
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Dr Aga Szóstek"
+    photo = "img/aszostek.png"
+    bio = """ Strateg przywództwa i doświadczeń, speaker, autorka. 
+Twórczyni frameworków: Zostań liderem, jakim chcesz" i "Strategia Umami".<br>
+Autorka powieści "Niewidzialna klatka" o koszcie awansu i cenie wolności.<br>
+Doktorat z wzornictwa przemysłowego (spec. Intelligent Systems), TU/e.<br>
+Współpracowała z 100+ organizacjami, w tym Google, IKEA, ING, Santander, Philips.<br>
+15+ lat na scenie, występowała na scenach wszystkich sześciu kontynentów.<br>
+<br>
+Od 20 lat pomaga liderom i organizacjom projektować doświadczenia które zostają w pamięci, przywództwo które wynika z tożsamości i historie które zmieniają perspektywę. Jej teza: przywództwo to projekt, nie osobowość. Odwaga to działanie, nie cecha. Każdy problem nierozwiązywalny z obecnego miejsca staje się rozwiązywalny gdy zmienisz punkt widzenia.
+   """
+      [params.Schedule.authors.link]
+        href = 'https://agaszostek.com/'
+        text = 'www'
+
+
+    [params.Schedule.presentation]
+      title = 'tbd '
+      description = """ TBD
+      """
       
 ####################################
 # Warsztaty
