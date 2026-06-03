@@ -202,10 +202,10 @@ url = 'https://www.agilesilesia.pl/'
 # logo = 'img/logo_DareIT.png'
 # url = 'https://www.dareit.io/'
 
-# [[params.Media]]
-# name = "Zwinna Łódź"
-# logo = 'img/logo_zwinna_lodz.svg'
-# url = 'https://www.meetup.com/Zwinna-Lodz/'
+[[params.Media]]
+name = "AGILE pod Wawelem"
+logo = 'img/logo_podwawelem.png'
+url = 'https://www.linkedin.com/company/agile-pod-wawelem/'
 
 ####################################
 #  Organizatorzy
@@ -375,8 +375,9 @@ Od 20 lat pomaga liderom i organizacjom projektować doświadczenia które zosta
 
 
     [params.Schedule.presentation]
-      title = 'tbd '
-      description = """ TBD
+      title = 'Zmiana goni zmianę, czy ten wyścig jest na czas? '
+      description = """ Ledwie kończy się jedna transformacja, już za rogiem czeka następna. Biegniemy zadyszani, przekonani, że kto się nie zmienia dość szybko, ten odpada. Tylko że ludzie tak nie działają. Nie zmieniamy się w dniu, w którym podejmujemy decyzję ani w kwartale, w którym firma ogłasza transformację. Zmieniamy się wolniej, cyklicznie, z nawrotami, aż zmiana w nas dojrzeje. Bo ta, którą wymusimy wbrew sobie, i tak się nie utrzyma. Opowiem o tym, czego w tym transformacyjnym wyścigu nie widać: że zmiana ma swój czas, że nie każda jest warta biegu i że czasem najodważniej jest zostać z zgodzie ze sobą. Na bazie badań. I mojej powieści.
+
       """
       
 ####################################
