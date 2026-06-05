@@ -340,8 +340,9 @@ Również w Polsce..
     [[params.Schedule.authors]]
     name = "Dr Jakub Perlak"
     photo = "img/jperlak.jpeg"
-    bio = """ Konsultant organizacyjny, trener i coach, a także okazjonalny wykładowca i prelegent na konferencjach. Rozwijam organizacje poprzez łączenie perspektywy relacyjnej z systemową. Wspieram budowanie zdolności adaptacyjnych, a także transformacyjnych firm, tworząc środowiska nastawione na współpracę, współdzielenie przywództwa i samoorganizację. Pomagam zespołom osiągać efektywność. Napędza mnie różnorodność i kreatywność wyłaniające się przy pracy z grupami oraz liderami.
-Doktor nauk społecznych w dyscyplinie zarządzania i nauk o jakości. Badam przywództwo i samoorganizację, będą przede wszystkim praktykiem posiadającym kilkunastoletnie doświadczenie w branży IT, na różnych stanowiskach, m.in. menedżer, team leader czy Agile Coach. 
+    bio = """ Konsultant organizacyjny, trener i coach, a także okazjonalny wykładowca i prelegent na konferencjach. Rozwijam organizacje poprzez łączenie perspektywy relacyjnej z systemową. Wspieram budowanie zdolności adaptacyjnych i transformacyjnych firm, tworząc środowisko nastawione na współpracę, współdzielenie przywództwa i samoorganizację. Pomagam zespołom osiągać efektywność. Napędza mnie różnorodność i kreatywność wyłaniające się przy pracy z grupami oraz liderami.
+
+Doktor nauk społecznych w dyscyplinie zarządzania i nauk o jakości. Badam przywództwo i samoorganizację, będąc przede wszystkim praktykiem posiadającym kilkunastoletnie doświadczenie w branży IT, na różnych stanowiskach, m.in. menedżer, team leader, konsultant czy Agile Coach.
 Więcej o mnie: jakubperlak.pl i linkedin https://pl.linkedin.com/in/jakub-perlak"""
       [params.Schedule.authors.link]
         href = 'jakubperlak.pl'
