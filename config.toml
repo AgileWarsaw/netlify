@@ -192,10 +192,10 @@ name = "Agile Silesia"
 logo = "img/logo_agile-silesia.png"
 url = 'https://www.agilesilesia.pl/'
 
-#[[params.Media]]
-#name = "ALE Kraków"
-#logo = "img/logo-ale-krakow.png"
-#url = 'https://www.alekrakow.com/'
+[[params.Media]]
+name = "ALE Kraków"
+logo = "img/logo-ale-krakow.png"
+url = 'https://www.alekrakow.com/'
 
 # [[params.Media]]
 # name = "Dare IT"
