@@ -41,7 +41,7 @@ Anonimowo. Dla swojej firmy. I od razu zobaczysz wynik – **realny benchmark wz
 **Weź telefon. Resztą zajmiemy się my.**
 
 Zapoznaj się wcześniej z projektem: 
-<a href="https://progresywne.org/" target="_blank">progresywne.org</a>, <a href="https://www.linkedin.com/company/progresywne-org/" target="_blank">LinkedIn</a>
+https://progresywne.org/, https://www.linkedin.com/company/progresywne-org/
 
 ***
 
