@@ -36,8 +36,10 @@ Chcemy, abyś wyszła/wyszedł z tego spotkania z poczuciem, że Twoja wrażliwo
 
 ## Trenerki:
 <a href="https://www.linkedin.com/in/lidiaokruta/" target="_blank">Lidia Okruta-Magdziarz</a> - psycholog, coach, psychoterapeutka integracyjna; prowadzi psychoterapię indywidualną i grupową osób dorosłych oraz coaching osób dorosłych. Członek The British Psychological Society oraz Polskiego Towarzystwa Psychiatrycznego. Zajmuje się pracą z osobami doświadczającymi kryzysu psychicznego, stresu, lęku, niskiego poczucia własnej wartości, oraz osobami doświadczających trudności w relacjach osobistych i zawodowych. Pracuje w oparciu o empatię i autentyczność w relacji, podąża za indywidualnymi potrzebami, gotowością i tempem klienta.
+https://www.linkedin.com/in/lidiaokruta/
 
 <a href="https://www.linkedin.com/in/marta-portalewska-a63837137/" target="_blank">Marta Portalewska</a> - coach specjalizujący się w indywidualnej oraz grupowej pracy rozwojowej młodzieży i dorosłych. Od zawsze ciekawią ją ludzie, poznawanie różnych perspektyw, celów oraz potrzeb. Z wykształcenia lingwistka, zawodowo od wielu lat związana z edukacją językową i szeroko pojętym wsparciem franczyzobiorców oraz metodyków. Absolwentka szkoły coachów w Grupie TROP oraz kursu dla zaawansowanych coachów w obszarze Clean Coachingu. W swojej pracy wspiera klientów w pokonywaniu napotykanych wyzwań i rozwijaniu biznesów poprzez wzmacnianie umiejętności komunikacyjnych, odkrywanie własnych zasobów oraz budowanie trwałych relacji z zespołem i kontrahentami.
+https://www.linkedin.com/in/marta-portalewska-a63837137/
 
 Gorące podziękowania dla **DXC Technology** za gościnę!  
 A także kawę, herbatę, wodę i drobne przekąski.
