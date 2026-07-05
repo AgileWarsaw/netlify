@@ -32,7 +32,7 @@ Anonimowo. Dla swojej firmy. I od razu zobaczysz wynik – **realny benchmark wz
 
 - Dostęp do społeczności na LinkedIn, gdzie dyskusja będzie się toczyć dalej
 
-88Trzy rzeczy, które warto wiedzieć:**
+**Trzy rzeczy, które warto wiedzieć:**
 
 1. Pełna anonimowość – żadnych danych pod Twoim nazwiskiem ani nazwą firmy
 2. Wynik dostajesz od razu, na miejscu
