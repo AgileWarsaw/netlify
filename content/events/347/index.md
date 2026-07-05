@@ -1,6 +1,6 @@
 ---
 number: "347"
-date: "2026-05-26T18:00:00+02:00"
+date: "2026-05-11T18:00:00+02:00"
 title: "Gdzie naprawdę jest Twoja organizacja? Sprawdź to na żywo – nowa inicjatywa dla społeczności Agile"
 speakers: "Piotr Medyński"
 lang: "pl"
