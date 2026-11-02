@@ -26,8 +26,7 @@ Po tym warsztacie zupełnie inaczej spojrzysz na komunikację w swoim zespole. N
 ## Prowadzący:
 **Konrad Gniazdowski**
 
-to IT Community Coach w globalnym hubie finansowym operującym na trzech kontynentach oraz uznany improwizator z ponad 11-letnim doświadczeniem na krajowych i międzynarodowych scenach (m.in. w Barcelonie, Sofii i Warszawie). Zwinność to dla niego przede wszystkim prawdziwa siła napędowa rzeczywistych zmian organizacyjnych. Jego ostatnie wyzwania to opracowanie ram korzystania ze sztucznej inteligencji w obszarach IT, zdefiniowanie zasad współpracy między biznesem a IT podczas pracy nad nowym produktem oraz wsparcie Liderów Kompetencji w autentycznej komunikacji ze swoimi zespołami. 
-
+to IT Community Coach w globalnym hubie finansowym operującym na trzech kontynentach oraz uznany improwizator z ponad 11-letnim doświadczeniem na krajowych i międzynarodowych scenach (m.in. w Barcelonie, Sofii i Warszawie). Zwinność to dla niego przede wszystkim prawdziwa siła napędowa rzeczywistych zmian organizacyjnych. Jego ostatnie wyzwania to opracowanie ram korzystania ze sztucznej inteligencji w obszarach IT, zdefiniowanie zasad współpracy między biznesem a IT podczas pracy nad nowym produktem oraz wsparcie Liderów Kompetencji w autentycznej komunikacji ze swoimi zespołami.  
 https://www.linkedin.com/in/konrad-gniazdowski
 
 ---
