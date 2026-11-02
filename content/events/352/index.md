@@ -28,6 +28,6 @@ Po tym warsztacie zupełnie inaczej spojrzysz na komunikację w swoim zespole. N
 
 <a href="https://www.linkedin.com/in/konrad-gniazdowski" target="_blank">Konrad Gniazdowski</a>  
 <a href="https://agaszostek.com" target="_blank">https://agaszostek.com/</a>
-<a href="https://www.linedin.com/konrad gniazdowski" target="_blank">https://agaszostek.com/</a>  https://www.linkedin.com/in/konrad-gniazdowski/
+<a href="https://www.linkedin.com/konrad gniazdowski" target="_blank">https://agaszostek.com/</a>  https://www.linkedin.com/in/konrad-gniazdowski/
 Gorące podziękowania dla **DXC Technology** za gościnę!  
 A także kawę, herbatę, wodę i drobne przekąski.
