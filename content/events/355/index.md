@@ -24,6 +24,7 @@ Pokażemy Ci proces wyborów do ról, które od lat działa w socjokracji. Prze�
 - rozkmina gdzie, poza obsadzanem ról, można ten proces zastosować,
 - świętowanie wyboru, który wspiera cały zespół.
 
+
 **Socjokracja**
 
 Socjokracja to podejście do zarządzania, które  dąży do tworzenia psychologicznie bezpiecznych środowisk i produktywnych organizacji. Opiera się na wykorzystaniu zgody /braku sprzeciwu/, a nie głosowania większościowego i podejmowaniu decyzji przez osoby w rolach, które łączy wspólny cel.  
