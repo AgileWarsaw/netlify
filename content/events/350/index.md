@@ -26,7 +26,6 @@ Opowiem, czego nauczyły nas dwa lata zwinnego budowania software'u z AI i dlacz
 - Dla wszystkich:)
 
 ---
-
 ## Prowadzący:
 **Wiktor Żołnowski** - CEO Pragmatic Coders, firmy specjalizującej się w ratowaniu, przejmowaniu i wspieraniu złożonych projektów IT tam, gdzie inni zawiedli. Od prawie dwóch dekad pomaga organizacjom odzyskiwać kontrolę nad technologią, redukować ryzyko i dowozić rezultaty w warunkach wysokiej złożoności. Promuje podejście, w którym efektywność, odpowiedzialność i sens biznesowy są ważniejsze niż sam software.
 
@@ -36,6 +35,5 @@ https://pragmaticcoders.com
 https://www.youtube.com/@PragmaticTalks
 
 ---
-
 Gorące podziękowania dla **DXC Technology** za gościnę!  
 A także kawę, herbatę, wodę i drobne przekąski.
