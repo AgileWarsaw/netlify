@@ -12,7 +12,7 @@ draft: false
 
 ## Warsztat stacjonarny
 
-**
+**Powiedz tak… i! Impro dla zwinnych ludzi**
 
 Kiedy ostatnio spotkanie, które zorganizowałeś/aś przeobraziło się w spór, który do niczego nie prowadził? Jeśli masz wrażenie, że w twoim zespole każdy chce mówić, ale nikt nie słucha, a “Zaangażowanie, Skupienie, Otwartość, Szacunek, Odwaga” stały się martwymi hasłami ze Scrum Guide’a, zmień to, zanim nie dowieziecie celu kolejnego sprintu.
 
