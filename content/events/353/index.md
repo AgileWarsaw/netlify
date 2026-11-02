@@ -2,7 +2,7 @@
 number: "353"
 date: "2026-10-05T18:00:00+02:00"
 title: "PO - bottleneck procesu dostarczania oprogramowania, czyli jak AI wpływa na nasza pracę"
-speakers: "Konrad Gniazdowski"
+speakers: "Dariusz Mozgowoj"
 lang: "pl"
 sponsors: ["DXC"]
 videoURL: ""
