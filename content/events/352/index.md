@@ -27,6 +27,7 @@ Po tym warsztacie zupełnie inaczej spojrzysz na komunikację w swoim zespole. N
 <a href="https://www.linkedin.com/in/konrad-gniazdowski" target="_blank">**Konrad Gniazdowski**</a>  to IT Community Coach w globalnym hubie finansowym operującym na trzech kontynentach oraz uznany improwizator z ponad 11-letnim doświadczeniem na krajowych i międzynarodowych scenach (m.in. w Barcelonie, Sofii i Warszawie). Zwinność to dla niego przede wszystkim prawdziwa siła napędowa rzeczywistych zmian organizacyjnych. Jego ostatnie wyzwania to opracowanie ram korzystania ze sztucznej inteligencji w obszarach IT, zdefiniowanie zasad współpracy między biznesem a IT podczas pracy nad nowym produktem oraz wsparcie Liderów Kompetencji w autentycznej komunikacji ze swoimi zespołami. 
 
 <a href="https://www.linkedin.com/in/konrad-gniazdowski" target="_blank">Konrad Gniazdowski</a>  
-<a href="https://agaszostek.com" target="_blank">https://agaszostek.com/</a> 
+<a href="https://agaszostek.com" target="_blank">https://agaszostek.com/</a>
+<a href="https://www.linedin.com/konrad gniazdowski" target="_blank">https://agaszostek.com/</a>  https://www.linkedin.com/in/konrad-gniazdowski/
 Gorące podziękowania dla **DXC Technology** za gościnę!  
 A także kawę, herbatę, wodę i drobne przekąski.
