@@ -24,7 +24,8 @@ Pokażemy Ci proces wyborów do ról, które od lat działa w socjokracji. Prze�
 - rozkmina gdzie, poza obsadzanem ról, można ten proces zastosować,
 - świętowanie wyboru, który wspiera cały zespół.
 
-**Socjokracja**  
+**Socjokracja**
+
 Socjokracja to podejście do zarządzania, które  dąży do tworzenia psychologicznie bezpiecznych środowisk i produktywnych organizacji. Opiera się na wykorzystaniu zgody /braku sprzeciwu/, a nie głosowania większościowego i podejmowaniu decyzji przez osoby w rolach, które łączy wspólny cel.  
 Opracował ją w latach 70. XX wieku holenderski inżynier Gerard Endenburg, czerpiąc inspirację  z zakresu fizyki, cybernetyki, myślenia systemowego, praktyk Kwakrów., rozwijając teorie społeczne, polityczne i edukacyjne Comte'a, Warda i Boekego.  
 Według tych zasad od lat 70’ XXw działa firma Endenburg Elektrotechniek z siedzibą w Rotterdamie.
