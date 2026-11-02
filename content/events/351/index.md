@@ -18,13 +18,11 @@ Odkładasz to od miesięcy. Nie dlatego, że nie umiesz. Właśnie dlatego, że 
 
 Na warsztacie zaczniemy zaglądać oporowi w zęby. A potem zrobimy jedyną rzecz, która na opór działa: zrobimy coś nietypowego. Bez przygotowania, bez talentu, bez wymówek. Co dokładnie, powiem na miejscu. Gdybym napisała to teraz, połowa z was by nie przyszła - i to jest właśnie dowód na moją tezę ;)
 
-###Dla kogo jest to spotkanie?
-- Dla wszystkich:)
-
 ***
 
 ## Prowadząca:
-**Dr Aga Szóstek** [<a href="https://agaszostek.com/" target="_blank">https://agaszostek.com/</a>]
+**Dr Aga Szóstek**  
+<a href="https://agaszostek.com" target="_blank">https://agaszostek.com/</a> 
 
 Strateg przywództwa i doświadczeń, speaker, autorka. Twórczyni frameworków: Zostań liderem, jakim chcesz" i "Strategia Umami".
 Autorka powieści "Niewidzialna klatka" o koszcie awansu i cenie wolności.
