@@ -22,8 +22,6 @@ Na warsztacie zaczniemy zaglądać oporowi w zęby. A potem zrobimy jedyną rzec
 
 ## Prowadząca:
 **Dr Aga Szóstek**  
-<a href="https://agaszostek.com" target="_blank">https://agaszostek.com/</a> 
-
 Strateg przywództwa i doświadczeń, speaker, autorka. Twórczyni frameworków: Zostań liderem, jakim chcesz" i "Strategia Umami".
 Autorka powieści "Niewidzialna klatka" o koszcie awansu i cenie wolności.
 Doktorat z wzornictwa przemysłowego (spec. Intelligent Systems), TU/e.
@@ -32,5 +30,8 @@ Współpracowała z 100+ organizacjami, w tym Google, IKEA, ING, Santander, Phil
 
 Od 20 lat pomaga liderom i organizacjom projektować doświadczenia które zostają w pamięci, przywództwo które wynika z tożsamości i historie które zmieniają perspektywę. Jej teza: przywództwo to projekt, nie osobowość. Odwaga to działanie, nie cecha. Każdy problem nierozwiązywalny z obecnego miejsca staje się rozwiązywalny gdy zmienisz punkt widzenia.
 
+https://agaszostek.com
+
+---
 Gorące podziękowania dla **DXC Technology** za gościnę!  
 A także kawę, herbatę, wodę i drobne przekąski.
