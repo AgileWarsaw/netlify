@@ -36,5 +36,6 @@ https://pragmaticcoders.com
 https://www.youtube.com/@PragmaticTalks
 
 ---
+
 Gorące podziękowania dla **DXC Technology** za gościnę!  
 A także kawę, herbatę, wodę i drobne przekąski.
