@@ -28,11 +28,12 @@ Opowiem, czego nauczyły nas dwa lata zwinnego budowania software'u z AI i dlacz
 ***
 
 ## Prowadzący:
-**Wiktor Żołnowski** - CEO Pragmatic Coders, firmy specjalizującej się w ratowaniu, przejmowaniu i wspieraniu złożonych projektów IT tam, gdzie inni zawiedli. Od prawie dwóch dekad pomaga organizacjom odzyskiwać kontrolę nad technologią, redukować ryzyko i dowozić rezultaty w warunkach wysokiej złożoności. Promuje podejście, w którym efektywność, odpowiedzialność i sens biznesowy są ważniejsze niż sam software.  
-<a href="https://leanpub.com/problemywagile" target="_blank">https://leanpub.com/problemywagile</a>  
-<a href="https://healthfolder.online" target="_blank">https://healthfolder.online</a>  
-<a href="https://pragmaticcoders.com" target="_blank">https://pragmaticcoders.com</a>  
-<a href="https://www.youtube.com/@PragmaticTalks" target="_blank">https://www.youtube.com/@PragmaticTalks</a>  
+**Wiktor Żołnowski** - CEO Pragmatic Coders, firmy specjalizującej się w ratowaniu, przejmowaniu i wspieraniu złożonych projektów IT tam, gdzie inni zawiedli. Od prawie dwóch dekad pomaga organizacjom odzyskiwać kontrolę nad technologią, redukować ryzyko i dowozić rezultaty w warunkach wysokiej złożoności. Promuje podejście, w którym efektywność, odpowiedzialność i sens biznesowy są ważniejsze niż sam software.
+
+https://leanpub.com/problemywagile  
+https://healthfolder.online  
+https://pragmaticcoders.com  
+https://www.youtube.com/@PragmaticTalks  
 
 Gorące podziękowania dla **DXC Technology** za gościnę!  
 A także kawę, herbatę, wodę i drobne przekąski.
