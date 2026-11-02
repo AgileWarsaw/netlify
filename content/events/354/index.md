@@ -1,5 +1,5 @@
 ---
-number: "352"
+number: "354"
 date: "2026-10-19T18:00:00+02:00"
 title: "Od chaosu zadań do spójnej strategii: Reversed Impact Mapping w praktyce"
 speakers: "Piotr Włodarczyk"
