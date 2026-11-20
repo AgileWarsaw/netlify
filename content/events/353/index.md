@@ -5,7 +5,7 @@ title: "PO - bottleneck procesu dostarczania oprogramowania, czyli jak AI wpływ
 speakers: "Dariusz Mozgowoj"
 lang: "pl"
 sponsors: ["DXC"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=t06qHYwoS9s&t=69s"
 slidesURL: ""
 draft: false
 ---
